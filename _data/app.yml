@@ -1,21 +1,17 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Scribbn
+description: Convert your voice messages from WhatsApp and co. to text. See at a glance the emotions and key phrases to find out what is about.
+full_description: 'Have you ever been receiving voice messages and not being able to listen to it in peace? Now you can convert them to text and know in time what your friends are saying, even in situations where putting your phone to your ear is not an option such as at meetings, theaters, events etc.<br><br>Scan information with your eyes at a pace faster than the sender&#39;s um&#39;s and uh&#39;s. In addition Scribbn&#39;s sophisticated AI extracts key phrases and emotions so that you can quickly find out what that voice message is about. After processing is finished the audio is not stored with respect to your privacy.'
+android: https://play.google.com/store/apps/details?id=com.technidoo.scribbn
+iOS: https://apps.apple.com/us/app/id1585425122
+#web: 
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+#producthunt: https://telegra.ph/Replace-this-link-07-23
+#companies:
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: androidpolice.png
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: producthunt.png

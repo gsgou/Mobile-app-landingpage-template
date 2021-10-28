@@ -1,16 +1,10 @@
 app:
-  screenshots: Screenshots
+  screenshots: Preview
   description: Description
-  featured: Featured in
+  #featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️ by <a href="https://www.linkedin.com/in/christianklasen" target="_blank">Christian Klasen</a> & <a href="http://technidoo.com" target="_blank">Technidoo Solutions</a>
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
-    - title: Privacy
+    - title: Privacy Policy
       url: /privacy

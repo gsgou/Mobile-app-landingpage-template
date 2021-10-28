@@ -4,5 +4,889 @@ title: Privacy policy
 permalink: /privacy/
 ---
 
-Your privacy policy here
-Use this to generate one for free: https://www.freeprivacypolicy.com/free-privacy-policy-generator.php
+Scribbn collects some Personal Data from its Users.
+
+This document contains [a section dedicated to Californian consumers and
+their privacy rights](#information-for-californian-consumers).
+
+This document contains [a section dedicated to Brazilian Users and their
+privacy rights](#information-for-users-residing-in-brazil).
+
+# Policy summary
+
+## Personal Data collected for the following purposes and using the following services:
+
+-   ### Analytics
+    -   ### App Center
+-   ### Beta Testing
+    -   ### Google Play Beta Testing and TestFlight
+        Personal Data: email address
+-   ### Handling payments
+    -   ### Payments processed via the Google Play Store and Payments processed via the Apple App Store
+        Personal Data: payment data
+-   ### Platform services and hosting
+    -   ### Google Play Store and Apple App Store
+        Personal Data: Usage Data
+-   ### Third-party services
+    -   ### Microsoft Cognitive Services Speech SDK and Text-Analytics
+
+# Full policy
+
+## Owner
+Christian Klasen\
+Ahornweg 50\
+63741, Aschaffenburg
+
+**Owner contact email:** hello\@scribbn.com
+
+## Data Controller 
+Technidoo Solutions UG (haftungsbeschränkt)\
+Ahornweg 50\
+63741, Aschaffenburg
+
+**Data Controller contact email:** hallo@technidoo.com
+
+## Types of Data collected
+
+Among the types of Personal Data that Scribbn collects, by itself or
+through third parties, there are: Usage Data; payment data; email address.
+
+Complete details on each type of Personal Data collected are provided in
+the dedicated sections of this privacy policy or by specific explanation
+texts displayed prior to the Data collection.\
+Personal Data may be freely provided by the User, or, in case of Usage
+Data, collected automatically when using Scribbn.\
+Unless specified otherwise, all Data requested by Scribbn is mandatory
+and failure to provide this Data may make it impossible for Scribbn to
+provide its services. In cases where Scribbn specifically states that
+some Data is not mandatory, Users are free not to communicate this Data
+without consequences to the availability or the functioning of the
+Service.\
+Users who are uncertain about which Personal Data is mandatory are
+welcome to contact the Owner.\
+Any use of Cookies -- or of other tracking tools -- by Scribbn or by
+the owners of third-party services used by Scribbn serves the purpose
+of providing the Service required by the User, in addition to any other
+purposes described in the present document and in the Cookie Policy, if
+available.
+
+Users are responsible for any third-party Personal Data obtained,
+published or shared through Scribbn and confirm that they have the
+third party\'s consent to provide the Data to the Owner.
+
+## Mode and place of processing the Data
+
+### Methods of processing
+
+The Owner takes appropriate security measures to prevent unauthorized
+access, disclosure, modification, or unauthorized destruction of the
+Data.\
+The Data processing is carried out using computers and/or IT enabled
+tools, following organizational procedures and modes strictly related to
+the purposes indicated. In addition to the Owner, in some cases, the
+Data may be accessible to certain types of persons in charge, involved
+with the operation of Scribbn (administration, sales, marketing, legal,
+system administration) or external parties (such as third-party
+technical service providers, mail carriers, hosting providers, IT
+companies, communications agencies) appointed, if necessary, as Data
+Processors by the Owner. The updated list of these parties may be
+requested from the Owner at any time.
+
+### Legal basis of processing
+
+The Owner may process Personal Data relating to Users if one of the
+following applies:
+
+-   Users have given their consent for one or more specific purposes.
+    Note: Under some legislations the Owner may be allowed to process
+    Personal Data until the User objects to such processing ("opt-out"),
+    without having to rely on consent or any other of the following
+    legal bases. This, however, does not apply, whenever the processing
+    of Personal Data is subject to European data protection law;
+-   provision of Data is necessary for the performance of an agreement
+    with the User and/or for any pre-contractual obligations thereof;
+-   processing is necessary for compliance with a legal obligation to
+    which the Owner is subject;
+-   processing is related to a task that is carried out in the public
+    interest or in the exercise of official authority vested in the
+    Owner;
+-   processing is necessary for the purposes of the legitimate interests
+    pursued by the Owner or by a third party.
+
+In any case, the Owner will gladly help to clarify the specific legal
+basis that applies to the processing, and in particular whether the
+provision of Personal Data is a statutory or contractual requirement, or
+a requirement necessary to enter into a contract.
+
+### Place
+
+The Data is processed at the Owner\'s operating offices and in any other
+places where the parties involved in the processing are located.\
+\
+Depending on the User\'s location, data transfers may involve
+transferring the User\'s Data to a country other than their own. To find
+out more about the place of processing of such transferred Data, Users
+can check the section containing details about the processing of
+Personal Data.
+
+Users are also entitled to learn about the legal basis of Data transfers
+to a country outside the European Union or to any international
+organization governed by public international law or set up by two or
+more countries, such as the UN, and about the security measures taken by
+the Owner to safeguard their Data.\
+\
+If any such transfer takes place, Users can find out more by checking
+the relevant sections of this document or inquire with the Owner using
+the information provided in the contact section.
+
+### Retention time
+
+Personal Data shall be processed and stored for as long as required by
+the purpose they have been collected for.
+
+Therefore:
+
+-   Personal Data collected for purposes related to the performance of a
+    contract between the Owner and the User shall be retained until such
+    contract has been fully performed.
+-   Personal Data collected for the purposes of the Owner's legitimate
+    interests shall be retained as long as needed to fulfill such
+    purposes. Users may find specific information regarding the
+    legitimate interests pursued by the Owner within the relevant
+    sections of this document or by contacting the Owner.
+
+The Owner may be allowed to retain Personal Data for a longer period
+whenever the User has given consent to such processing, as long as such
+consent is not withdrawn. Furthermore, the Owner may be obliged to
+retain Personal Data for a longer period whenever required to do so for
+the performance of a legal obligation or upon order of an authority.\
+\
+Once the retention period expires, Personal Data shall be deleted.
+Therefore, the right of access, the right to erasure, the right to
+rectification and the right to data portability cannot be enforced after
+expiration of the retention period.
+
+## The purposes of processing
+
+The Data concerning the User is collected to allow the Owner to provide
+its Service, comply with its legal obligations, respond to enforcement
+requests, protect its rights and interests (or those of its Users or
+third parties), detect any malicious or fraudulent activity, as well as
+the following: Platform services and hosting, Handling payments, Beta Testing, Device permissions for
+Personal Data access and Analytics.
+
+For specific information about the Personal Data used for each purpose,
+the User may refer to the section "Detailed information on the
+processing of Personal Data".
+
+## Detailed information on the processing of Personal Data
+
+Personal Data is collected for the following purposes and using the
+following services:
+
+-   ### Analytics
+
+    The services contained in this section enable the Owner to monitor
+    and analyze web traffic and can be used to keep track of User
+    behavior.
+
+    #### App Center
+
+    App Center is a analytics and diagnostics service provided by
+    Microsoft Corporation. Scribbn utilizes the Data collected to
+    understand the app usage and identify what really happened in the
+    app when it failed.
+
+-   ### Beta Testing
+
+    This type of service makes it possible to manage User access to
+    Scribbn, or parts of it, for the purpose of testing a certain
+    feature or the entire Application.\
+    The service provider may automatically collect data related to
+    crashes and statistics related to the User\'s use of Scribbn in a
+    personally identifiable form.
+
+    #### Google Play Beta Testing (Google Ireland Limited)
+
+    Google Play Beta Testing is a beta testing service provided by
+    Google Ireland Limited.
+
+    Personal Data processed: email address.
+
+    Place of processing: Ireland -- [Privacy
+    Policy](https://policies.google.com/privacy).
+
+    Category of personal information collected according to CCPA:
+    identifiers.
+
+    This processing constitutes a sale based on the definition under the
+    CCPA. In addition to the information in this clause, the User can
+    find information regarding how to opt out of the sale in the section
+    detailing the rights of Californian consumers.
+
+    #### TestFlight (Apple Inc.)
+
+    TestFlight is a beta testing service provided by Apple Inc.
+
+    Personal Data processed: email address.
+
+    Place of processing: United States -- [Privacy
+    Policy](https://www.apple.com/legal/internet-services/itunes/testflight/sren/terms.html).
+
+    Category of personal information collected according to CCPA:
+    identifiers.
+
+    This processing constitutes a sale based on the definition under the
+    CCPA. In addition to the information in this clause, the User can
+    find information regarding how to opt out of the sale in the section
+    detailing the rights of Californian consumers.
+
+-   ### Third-party services
+
+    #### Microsoft Cognitive Services Speech SDK
+
+    Cognitive Services Speech SDK is a Speech service feature that accurately transcribes spoken audio to text provided by Microsoft that allows Scribbn to incorporate service of this
+    kind on its pages.\
+    [Microsoft\'s privacy policy applies](https://csspeechstorage.blob.core.windows.net/drop/license201809.html).
+
+    #### Microsoft Cognitive Services Text-Analytics
+
+    Cognitive Services Text-Analytics is a text-mining AI service that uncovers insights such as sentiment analysis, entities, relations, and key phrases in unstructured text provided by Microsoft that allows Scribbn to incorporate service of this
+    kind on its pages.\
+    [Microsoft\'s privacy policy applies](https://docs.microsoft.com/en-us/legal/cognitive-services/text-analytics/data-privacy).
+
+-   ### Handling payments
+
+    Unless otherwise specified, Scribbn processes any payments by
+    credit card, bank transfer or other means via external payment
+    service providers. In general and unless where otherwise stated,
+    Users are requested to provide their payment details and personal
+    information directly to such payment service providers. Scribbn
+    isn\'t involved in the collection and processing of such
+    information: instead, it will only receive a notification by the
+    relevant payment service provider as to whether payment has been
+    successfully completed.
+
+    #### Payments processed via the Google Play Store (Google Ireland Limited)
+
+    Scribbn uses a payment service provided by Google Ireland Limited
+    that allows the Owner to offer the purchase of the app itself or
+    in-app purchases.
+
+    Personal Data processed to complete the purchases are processed by
+    Google, as described in the [privacy policy for the Google Play
+    store](https://policies.google.com/privacy?hl=en&gl=it).
+
+    Personal Data processed: payment data.
+
+    Place of processing: Ireland -- [Privacy
+    Policy](https://policies.google.com/privacy).
+
+    Category of personal information collected according to CCPA:
+    commercial information.
+
+    #### Payments processed via the Apple App Store (Apple Inc.)
+
+    Scribbn uses a payment service provided by Apple Inc. that allows
+    the Owner to offer the purchase of the app itself or in-app
+    purchases.
+
+    Personal Data processed to complete the purchases are processed by
+    Apple, as described in the [privacy policy for the App
+    Store](https://www.apple.com/legal/privacy/en-ww/).
+
+    Personal Data processed: payment data.
+
+    Place of processing: United States -- [Privacy
+    Policy](https://www.apple.com/legal/privacy/en-ww/).
+
+    Category of personal information collected according to CCPA:
+    commercial information.
+
+-   ### Platform services and hosting
+
+    These services have the purpose of hosting and running key
+    components of Scribbn, therefore allowing the provision of Scribbn
+    from within a unified platform. Such platforms provide a wide range
+    of tools to the Owner -- e.g. analytics, user registration,
+    commenting, database management, e-commerce, payment processing --
+    that imply the collection and handling of Personal Data.\
+    Some of these services work through geographically distributed
+    servers, making it difficult to determine the actual location where
+    the Personal Data are stored.
+
+    #### Google Play Store (Google Ireland Limited)
+
+    Scribbn is distributed on the Google Play Store, a platform for the
+    distribution of mobile apps, provided by Google Ireland Limited.
+
+    By virtue of being distributed via this app store, Google collects
+    usage and diagnostics data and share aggregate information with the
+    Owner. Much of this information is processed on an opt-in basis.
+
+    Users may opt-out of this analytics feature directly through their
+    device settings. More information on how to manage analysis settings
+    can be found on [this
+    page](https://support.google.com/accounts/answer/6078260).
+
+    Personal Data processed: Usage Data.
+
+    Place of processing: Ireland -- [Privacy
+    Policy](https://policies.google.com/privacy).
+
+    Category of personal information collected according to CCPA:
+    internet information.
+
+    #### Apple App Store (Apple Inc.)
+
+    Scribbn is distributed on Apple\'s App Store, a platform for the
+    distribution of mobile apps, provided by Apple Inc.
+
+    By virtue of being distributed via this app store, Apple collects
+    basic analytics and provides reporting features that enables the
+    Owner to view usage analytics data and measure the performance of
+    Scribbn. Much of this information is processed on an opt-in basis.
+
+    Users may opt-out of this analytics feature directly through their
+    device settings. More information on how to manage analysis settings
+    can be found on [this
+    page](https://support.apple.com/en-us/HT202100).
+
+    Personal Data processed: Usage Data.
+
+    Place of processing: United States -- [Privacy
+    Policy](https://www.apple.com/legal/privacy/).
+
+    Category of personal information collected according to CCPA:
+    internet information.
+
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the
+Owner.
+
+In particular, Users have the right to do the following:
+
+-   **Withdraw their consent at any time.** Users have the right to
+    withdraw consent where they have previously given their consent to
+    the processing of their Personal Data.
+-   **Object to processing of their Data.** Users have the right to
+    object to the processing of their Data if the processing is carried
+    out on a legal basis other than consent. Further details are
+    provided in the dedicated section below.
+-   **Access their Data.** Users have the right to learn if Data is
+    being processed by the Owner, obtain disclosure regarding certain
+    aspects of the processing and obtain a copy of the Data undergoing
+    processing.
+-   **Verify and seek rectification.** Users have the right to verify
+    the accuracy of their Data and ask for it to be updated or
+    corrected.
+-   **Restrict the processing of their Data.** Users have the right,
+    under certain circumstances, to restrict the processing of their
+    Data. In this case, the Owner will not process their Data for any
+    purpose other than storing it.
+-   **Have their Personal Data deleted or otherwise removed.** Users
+    have the right, under certain circumstances, to obtain the erasure
+    of their Data from the Owner.
+-   **Receive their Data and have it transferred to another
+    controller.** Users have the right to receive their Data in a
+    structured, commonly used and machine readable format and, if
+    technically feasible, to have it transmitted to another controller
+    without any hindrance. This provision is applicable provided that
+    the Data is processed by automated means and that the processing is
+    based on the User\'s consent, on a contract which the User is part
+    of or on pre-contractual obligations thereof.
+-   **Lodge a complaint.** Users have the right to bring a claim before
+    their competent data protection authority.
+
+### Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise
+of an official authority vested in the Owner or for the purposes of the
+legitimate interests pursued by the Owner, Users may object to such
+processing by providing a ground related to their particular situation
+to justify the objection.
+
+Users must know that, however, should their Personal Data be processed
+for direct marketing purposes, they can object to that processing at any
+time without providing any justification. To learn, whether the Owner is
+processing Personal Data for direct marketing purposes, Users may refer
+to the relevant sections of this document.
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner
+through the contact details provided in this document. These requests
+can be exercised free of charge and will be addressed by the Owner as
+early as possible and always within one month.
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User\'s Personal Data may be used for legal purposes by the Owner in
+Court or in the stages leading to possible legal action arising from
+improper use of Scribbn or the related Services.\
+The User declares to be aware that the Owner may be required to reveal
+personal data upon request of public authorities.
+
+### Additional information about User\'s Personal Data
+
+In addition to the information contained in this privacy policy,
+Scribbn may provide the User with additional and contextual information
+concerning particular Services or the collection and processing of
+Personal Data upon request.
+
+### System logs and maintenance
+
+For operation and maintenance purposes, Scribbn and any third-party
+services may collect files that record interaction with Scribbn (System
+logs) use other Personal Data (such as the IP Address) for this purpose.
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data
+may be requested from the Owner at any time. Please see the contact
+information at the beginning of this document.
+
+### How "Do Not Track" requests are handled
+
+Scribbn does not support "Do Not Track" requests.\
+To determine whether any of the third-party services it uses honor the
+"Do Not Track" requests, please read their privacy policies.
+
+### Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at
+any time by notifying its Users on this page and possibly within
+Scribbn and/or - as far as technically and legally feasible - sending a
+notice to Users via any contact information available to the Owner. It
+is strongly recommended to check this page often, referring to the date
+of the last modification listed at the bottom.\
+\
+Should the changes affect processing activities performed on the basis
+of the User's consent, the Owner shall collect new consent from the
+User, where required.
+
+## Information for Californian consumers
+
+This part of the document integrates with and supplements the
+information contained in the rest of the privacy policy and is provided
+by the business running Scribbn and, if the case may be, its parent,
+subsidiaries and affiliates (for the purposes of this section referred
+to collectively as "we", "us", "our").
+
+The provisions contained in this section apply to all Users who are
+consumers residing in the state of California, United States of America,
+according to \"The California Consumer Privacy Act of 2018\" (Users are
+referred to below, simply as "you", "your", "yours"), and, for such
+consumers, these provisions supersede any other possibly divergent or
+conflicting provisions contained in the privacy policy.
+
+This part of the document uses the term "personal information" as it is
+defined in The California Consumer Privacy Act (CCPA).
+
+### Categories of personal information collected, disclosed or sold
+
+In this section we summarize the categories of personal information that
+we\'ve collected, disclosed or sold and the purposes thereof. **You can
+read about these activities in detail in the section titled "Detailed
+information on the processing of Personal Data" within this document.**
+
+#### Information we collect: the categories of personal information we collect
+
+We have collected the following categories of personal information about
+you: identifiers, commercial information and internet information.
+
+We will not collect additional categories of personal information
+without notifying you.
+
+#### How we collect information: what are the sources of the personal information we collect?
+
+We collect the above mentioned categories of personal information,
+either directly or indirectly, from you when you use Scribbn.
+
+For example, you directly provide your personal information when you
+submit requests via any forms on Scribbn. You also provide personal
+information indirectly when you navigate Scribbn, as personal
+information about you is automatically observed and collected. Finally,
+we may collect your personal information from third parties that work
+with us in connection with the Service or with the functioning of
+Scribbn and features thereof.
+
+#### How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
+
+We may disclose the personal information we collect about you to a third
+party for business purposes. In this case, we enter a written agreement
+with such third party that requires the recipient to both keep the
+personal information confidential and not use it for any purpose(s)
+other than those necessary for the performance of the agreement.
+
+We may also disclose your personal information to third parties when you
+explicitly ask or authorize us to do so, in order to provide you with
+our Service.
+
+To find out more about the purposes of processing, please refer to the
+relevant section of this document.
+
+#### Sale of your personal information
+
+For our purposes, the word "sale" means any "selling, renting,
+releasing, disclosing, disseminating, making available, transferring or
+otherwise communicating orally, in writing, or by electronic means, a
+consumer\'s personal information by the business to **another business
+or a third party, for monetary or other valuable consideration**".
+
+This means that, for example, a sale can happen whenever an application
+runs ads, or makes statistical analyses on the traffic or views, or
+simply because it uses tools such as social network plugins and the
+like.
+
+#### Your right to opt out of the sale of personal information
+
+You have the right to opt out of the sale of your personal information.
+This means that whenever you request us to stop selling your data, we
+will abide by your request.\
+Such requests can be made freely, at any time, without submitting any
+verifiable request, simply by following the instructions below.
+
+#### Instructions to opt out of the sale of personal information
+
+If you'd like to know more, or exercise your right to opt out in regard
+to all the sales carried out by Scribbn, both online and offline, you
+can contact us for further information using the contact details
+provided in this document.
+
+#### What are the purposes for which we use your personal information?
+
+We may use your personal information to allow the operational
+functioning of Scribbn and features thereof ("business purposes"). In
+such cases, your personal information will be processed in a fashion
+necessary and proportionate to the business purpose for which it was
+collected, and strictly within the limits of compatible operational
+purposes.
+
+We may also use your personal information for other reasons such as for
+commercial purposes (as indicated within the section "Detailed
+information on the processing of Personal Data" within this document),
+as well as for complying with the law and defending our rights before
+the competent authorities where our rights and interests are threatened
+or we suffer an actual damage.
+
+We will not use your personal information for different, unrelated, or
+incompatible purposes without notifying you.
+
+### Your California privacy rights and how to exercise them
+
+#### The right to know and to portability
+
+You have the right to request that we disclose to you:
+
+-   the categories and sources of the personal information that we
+    collect about you, the purposes for which we use your information
+    and with whom such information is shared;
+-   in case of sale of personal information or disclosure for a business
+    purpose, two separate lists where we disclose:
+    -   for sales, the personal information categories purchased by each
+        category of recipient; and
+    -   for disclosures for a business purpose, the personal information
+        categories obtained by each category of recipient.
+
+The disclosure described above will be limited to the personal
+information collected or used over the past 12 months.
+
+If we deliver our response electronically, the information enclosed will
+be \"portable\", i.e. delivered in an easily usable format to enable you
+to transmit the information to another entity without hindrance --
+provided that this is technically feasible.
+
+#### The right to request the deletion of your personal information
+
+You have the right to request that we delete any of your personal
+information, subject to exceptions set forth by the law (such as,
+including but not limited to, where the information is used to identify
+and repair errors on Scribbn, to detect security incidents and protect
+against fraudulent or illegal activities, to exercise certain rights
+etc.).
+
+If no legal exception applies, as a result of exercising your right, we
+will delete your personal information and direct any of our service
+providers to do so.
+
+#### How to exercise your rights
+
+To exercise the rights described above, you need to submit your
+verifiable request to us by contacting us via the details provided in
+this document.
+
+For us to respond to your request, it's necessary that we know who you
+are. Therefore, you can only exercise the above rights by making a
+verifiable request which must:
+
+-   provide sufficient information that allows us to reasonably verify
+    you are the person about whom we collected personal information or
+    an authorized representative;
+-   describe your request with sufficient detail that allows us to
+    properly understand, evaluate, and respond to it.
+
+We will not respond to any request if we are unable to verify your
+identity and therefore confirm the personal information in our
+possession actually relates to you.
+
+If you cannot personally submit a verifiable request, you can authorize
+a person registered with the California Secretary of State to act on
+your behalf.
+
+If you are an adult, you can make a verifiable request on behalf of a
+minor under your parental authority.
+
+You can submit a maximum number of 2 requests over a period of 12
+months.
+
+#### How and when we are expected to handle your request
+
+We will confirm receipt of your verifiable request within 10 days and
+provide information about how we will process your request.
+
+We will respond to your request within 45 days of its receipt. Should we
+need more time, we will explain to you the reasons why, and how much
+more time we need. In this regard, please note that we may take up to 90
+days to fulfill your request.
+
+Our disclosure(s) will cover the preceding 12 month period.
+
+Should we deny your request, we will explain you the reasons behind our
+denial.
+
+We do not charge a fee to process or respond to your verifiable request
+unless such request is manifestly unfounded or excessive. In such cases,
+we may charge a reasonable fee, or refuse to act on the request. In
+either case, we will communicate our choices and explain the reasons
+behind it.
+
+## Information for Users residing in Brazil
+
+This part of the document integrates with and supplements the
+information contained in the rest of the privacy policy and is provided
+by the entity running Scribbn and, if the case may be, its parent,
+subsidiaries and affiliates (for the purposes of this section referred
+to collectively as "we", "us", "our").\
+The provisions contained in this section apply to all Users who reside
+in Brazil, according to the \"Lei Geral de Proteção de Dados\" (Users
+are referred to below, simply as "you", "your", "yours"). For such
+Users, these provisions supersede any other possibly divergent or
+conflicting provisions contained in the privacy policy.\
+This part of the document uses the term "personal information" as it is
+defined in the Lei Geral de Proteção de Dados (**LGPD**).
+
+### The grounds on which we process your personal information
+
+We can process your personal information solely if we have a legal basis
+for such processing. Legal bases are as follows:
+
+-   your consent to the relevant processing activities;
+-   compliance with a legal or regulatory obligation that lies with us;
+-   the carrying out of public policies provided in laws or regulations
+    or based on contracts, agreements and similar legal instruments;
+-   studies conducted by research entities, preferably carried out on
+    anonymized personal information;
+-   the carrying out of a contract and its preliminary procedures, in
+    cases where you are a party to said contract;
+-   the exercising of our rights in judicial, administrative or
+    arbitration procedures;
+-   protection or physical safety of yourself or a third party;
+-   the protection of health -- in procedures carried out by health
+    entities or professionals;
+-   our legitimate interests, provided that your fundamental rights and
+    liberties do not prevail over such interests; and
+-   credit protection.
+
+To find out more about the legal bases, you can contact us at any time
+using the contact details provided in this document.
+
+### Categories of personal information processed
+
+To find out what categories of your personal information are processed,
+you can read the section titled "Detailed information on the processing
+of Personal Data" within this document.
+
+### Why we process your personal information
+
+To find out why we process your personal information, you can read the
+sections titled "Detailed information on the processing of Personal
+Data" and "The purposes of processing" within this document.
+
+### Your Brazilian privacy rights, how to file a request and our response to your requests
+
+#### Your Brazilian privacy rights
+
+You have the right to:
+
+-   obtain confirmation of the existence of processing activities on
+    your personal information;
+-   access to your personal information;
+-   have incomplete, inaccurate or outdated personal information
+    rectified;
+-   obtain the anonymization, blocking or elimination of your
+    unnecessary or excessive personal information, or of information
+    that is not being processed in compliance with the LGPD;
+-   obtain information on the possibility to provide or deny your
+    consent and the consequences thereof;
+-   obtain information about the third parties with whom we share your
+    personal information;
+-   obtain, upon your express request, the portability of your personal
+    information (except for anonymized information) to another service
+    or product provider, provided that our commercial and industrial
+    secrets are safeguarded;
+-   obtain the deletion of your personal information being processed if
+    the processing was based upon your consent, unless one or more
+    exceptions provided for in art. 16 of the LGPD apply;
+-   revoke your consent at any time;
+-   lodge a complaint related to your personal information with the ANPD
+    (the National Data Protection Authority) or with consumer protection
+    bodies;
+-   oppose a processing activity in cases where the processing is not
+    carried out in compliance with the provisions of the law;
+-   request clear and adequate information regarding the criteria and
+    procedures used for an automated decision; and
+-   request the review of decisions made solely on the basis of the
+    automated processing of your personal information, which affect your
+    interests. These include decisions to define your personal,
+    professional, consumer and credit profile, or aspects of your
+    personality.
+
+You will never be discriminated against, or otherwise suffer any sort of
+detriment, if you exercise your rights.
+
+#### How to file your request
+
+You can file your express request to exercise your rights free from any
+charge, at any time, by using the contact details provided in this
+document, or via your legal representative.
+
+#### How and when we will respond to your request
+
+We will strive to promptly respond to your requests.\
+In any case, should it be impossible for us to do so, we'll make sure to
+communicate to you the factual or legal reasons that prevent us from
+immediately, or otherwise ever, complying with your requests. In cases
+where we are not processing your personal information, we will indicate
+to you the physical or legal person to whom you should address your
+requests, if we are in the position to do so.
+
+In the event that you file an **access** or personal information
+**processing confirmation** request, please make sure that you specify
+whether you'd like your personal information to be delivered in
+electronic or printed form.\
+You will also need to let us know whether you want us to answer your
+request immediately, in which case we will answer in a simplified
+fashion, or if you need a complete disclosure instead.\
+In the latter case, we'll respond within 15 days from the time of your
+request, providing you with all the information on the origin of your
+personal information, confirmation on whether or not records exist, any
+criteria used for the processing and the purposes of the processing,
+while safeguarding our commercial and industrial secrets.
+
+In the event that you file a **rectification, deletion, anonymization or
+personal information blocking** request, we will make sure to
+immediately communicate your request to other parties with whom we have
+shared your personal information in order to enable such third parties
+to also comply with your request -- except in cases where such
+communication is proven impossible or involves disproportionate effort
+on our side.
+
+### Transfer of personal information outside of Brazil permitted by the law
+
+We are allowed to transfer your personal information outside of the
+Brazilian territory in the following cases:
+
+-   when the transfer is necessary for international legal cooperation
+    between public intelligence, investigation and prosecution bodies,
+    according to the legal means provided by the international law;
+-   when the transfer is necessary to protect your life or physical
+    security or those of a third party;
+-   when the transfer is authorized by the ANPD;
+-   when the transfer results from a commitment undertaken in an
+    international cooperation agreement;
+-   when the transfer is necessary for the execution of a public policy
+    or legal attribution of public service;
+-   when the transfer is necessary for compliance with a legal or
+    regulatory obligation, the carrying out of a contract or preliminary
+    procedures related to a contract, or the regular exercise of rights
+    in judicial, administrative or arbitration procedures.
+
+### Definitions and legal references
+
+#### Personal Data (or Data)
+
+Any information that directly, indirectly, or in connection with other
+information --- including a personal identification number --- allows
+for the identification or identifiability of a natural person.
+
+#### Usage Data
+
+Information collected automatically through Scribbn (or third-party
+services employed in Scribbn), which can include: the IP addresses or
+domain names of the computers utilized by the Users who use Scribbn,
+the URI addresses (Uniform Resource Identifier), the time of the
+request, the method utilized to submit the request to the server, the
+size of the file received in response, the numerical code indicating the
+status of the server\'s answer (successful outcome, error, etc.), the
+country of origin, the features of the browser and the operating system
+utilized by the User, the various time details per visit (e.g., the time
+spent on each page within the Application) and the details about the
+path followed within the Application with special reference to the
+sequence of pages visited, and other parameters about the device
+operating system and/or the User\'s IT environment.
+
+#### User
+
+The individual using Scribbn who, unless otherwise specified, coincides
+with the Data Subject.
+
+#### Data Subject
+
+The natural person to whom the Personal Data refers.
+
+#### Data Processor (or Data Supervisor)
+
+The natural or legal person, public authority, agency or other body
+which processes Personal Data on behalf of the Controller, as described
+in this privacy policy.
+
+#### Data Controller (or Owner)
+
+The natural or legal person, public authority, agency or other body
+which, alone or jointly with others, determines the purposes and means
+of the processing of Personal Data, including the security measures
+concerning the operation and use of Scribbn. The Data Controller,
+unless otherwise specified, is the Owner of Scribbn.
+
+#### Scribbn (or this Application)
+
+The means by which the Personal Data of the User is collected and
+processed.
+
+#### Service
+
+The service provided by Scribbn as described in the relative terms (if
+available) and on this site/application.
+
+#### European Union (or EU)
+
+Unless otherwise specified, all references made within this document to
+the European Union include all current member states to the European
+Union and the European Economic Area.
+
+------------------------------------------------------------------------
+
+#### Legal information
+
+This privacy statement has been prepared based on provisions of multiple
+legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General
+Data Protection Regulation).
+
+This privacy policy relates solely to Scribbn, if not stated otherwise
+within this document.
+
+Latest update: October 1, 2021
