@@ -7,7 +7,7 @@ title: Scribbn
 email: hello@scribbn.com
 description: Convert your voice notes from WhatsApp and co. to text
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scribbn.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.scribbn.de" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 #twitter_username: sandochee
 #github_username:  sandoche
