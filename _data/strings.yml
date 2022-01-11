@@ -4,7 +4,7 @@ app:
   #featured: Featured in
 
 footer:
-  copyright: Made with ❤️ by <a href="https://www.linkedin.com/in/christianklasen" target="_blank">Christian Klasen</a> & <a href="http://technidoo.com" target="_blank">Technidoo Solutions</a>
+  copyright: Made in Germany by <a href="https://www.linkedin.com/in/christianklasen" target="_blank">Christian Klasen</a> & <a href="http://technidoo.com" target="_blank">Technidoo Solutions</a>
   links:
     - title: Privacy Policy
       url: /privacy
