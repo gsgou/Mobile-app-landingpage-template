@@ -10,9 +10,9 @@ screenshots:
   - 3.png
   - 4.png
   - 5.png
-#producthunt: https://telegra.ph/Replace-this-link-07-23
-#companies:
+#producthunt: https://producthunt.com/posts/scribbn
+companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
 #    image: androidpolice.png
-#  - url: https://telegra.ph/Replace-this-link-07-23
-#    image: producthunt.png
+  - url: https://www.producthunt.com/posts/scribbn?utm_source=badge-review&utm_medium=badge&utm_souce=badge-scribbn#discussion-body
+    image: producthunt.png
