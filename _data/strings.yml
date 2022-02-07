@@ -1,7 +1,7 @@
 app:
   screenshots: Preview
   description: Description
-  featured: Featured on
+  featured: Featured in
 
 footer:
   copyright: Made in Germany by <a href="https://www.linkedin.com/in/christianklasen" target="_blank">Christian Klasen</a> & <a href="http://technidoo.com" target="_blank">Technidoo Solutions</a>
