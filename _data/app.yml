@@ -12,6 +12,8 @@ screenshots:
   - 5.png
 #producthunt: https://producthunt.com/posts/scribbn
 companies:
+  - url: https://www.cuatro.com/futura/20220531/app-movil-revolucionarias-audio-nivel-polen_18_06612022.html
+    image: futura.png
   - url: https://academia.crandi.com/redes-sociales/scribbn
     image: crandi.png
   - url: https://www.trecebits.com/2022/02/28/scribbn-la-app-que-convierte-a-texto-los-mensajes-de-voz-de-whatsapp
