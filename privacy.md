@@ -16,6 +16,10 @@ privacy rights](#information-for-users-residing-in-brazil).
 
 ## Personal Data collected for the following purposes and using the following services:
 
+-   ### Advertising
+    -   ### AdMob
+        Personal Data: Trackers; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example);
+        Usage Data   
 -   ### Analytics
     -   ### App Center
 -   ### Beta Testing
@@ -49,7 +53,9 @@ Ahornweg 50\
 ## Types of Data collected
 
 Among the types of Personal Data that Scribbn collects, by itself or
-through third parties, there are: Usage Data; payment data; email address.
+through third parties, there are: Usage Data; payment data; email address;
+Trackers; unique device identifiers for advertising (Google Advertiser
+ID or IDFA, for example).
 
 Complete details on each type of Personal Data collected are provided in
 the dedicated sections of this privacy policy or by specific explanation
@@ -173,7 +179,7 @@ its Service, comply with its legal obligations, respond to enforcement
 requests, protect its rights and interests (or those of its Users or
 third parties), detect any malicious or fraudulent activity, as well as
 the following: Platform services and hosting, Handling payments, Beta Testing, Device permissions for
-Personal Data access and Analytics.
+Personal Data access, Analytics and Advertising.
 
 For specific information about the Personal Data used for each purpose,
 the User may refer to the section "Detailed information on the
@@ -183,6 +189,43 @@ processing of Personal Data".
 
 Personal Data is collected for the following purposes and using the
 following services:
+
+-   ### Advertising
+
+    This type of service allows User Data to be utilized for advertising
+    communication purposes. These communications are displayed in the
+    form of videos and other advertisements on Scribbn, possibly based
+    on User interests.\
+    This does not mean that all Personal Data are used for this purpose.
+    Information and conditions of use are shown below.\
+    Some of the services listed below may use Trackers to identify Users
+    or they may use the behavioral retargeting technique, i.e.
+    displaying ads tailored to the User's interests and behavior,
+    including those detected outside Scribbn. For more information,
+    please check the privacy policies of the relevant services.\
+    Services of this kind usually offer the possibility to opt out of
+    such tracking. In addition to any opt-out feature offered by any of
+    the services below, Users may learn more on how to generally opt out
+    of interest-based advertising within the dedicated section \"How to
+    opt-out of interest-based advertising\" in this document.
+
+    #### AdMob (Google Ireland Limited)
+
+    AdMob is an advertising service provided by Google Ireland Limited.\
+    **In order to understand Google\'s use of Data, consult [Google\'s partner policy](https://policies.google.com/technologies/partner-sites)**.
+
+    Personal Data processed: Trackers; unique device identifiers for
+    advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+
+    Place of processing: Ireland -- [Privacy Policy](https://policies.google.com/privacy).
+
+    Category of personal information collected according to CCPA:
+    identifiers; internet information.
+
+    This processing constitutes a sale based on the definition under the
+    CCPA. In addition to the information in this clause, the User can
+    find information regarding how to opt out of the sale in the section
+    detailing the rights of Californian consumers.
 
 -   ### Analytics
 
@@ -359,6 +402,29 @@ following services:
 
     Category of personal information collected according to CCPA:
     internet information.
+
+## Information on opting out of interest-based advertising
+
+In addition to any opt-out feature provided by any of the services
+listed in this document, Users may follow the instructions provided by
+[YourOnlineChoices](http://www.youronlinechoices.com/) (EU), the [Network Advertising
+Initiative](https://thenai.org/about-online-advertising/) (US) and the [Digital Advertising
+Alliance](https://www.aboutads.info/consumers/) (US),
+[DAAC](http://youradchoices.ca/understanding-online-advertising) (Canada),
+[DDAI](http://www.ddai.info/optout) (Japan) or other similar initiatives. Such
+initiatives allow Users to select their tracking preferences for most of
+the advertising tools. The Owner thus recommends that Users make use of
+these resources in addition to the information provided in this
+document.
+
+The Digital Advertising Alliance offers an application called
+[AppChoices](https://youradchoices.com/appchoices)  that helps Users to control interest-based
+advertising on mobile apps.
+
+Users may also opt-out of certain advertising features through
+applicable device settings, such as the device advertising settings for
+mobile phones or ads settings in general.
+
 
 ## The rights of Users
 
@@ -878,6 +944,18 @@ Unless otherwise specified, all references made within this document to
 the European Union include all current member states to the European
 Union and the European Economic Area.
 
+#### Cookie
+
+Cookies are Trackers consisting of small sets of data stored in the
+User\'s browser.
+
+#### Tracker
+
+Tracker indicates any technology - e.g Cookies, unique identifiers, web
+beacons, embedded scripts, e-tags and fingerprinting - that enables the
+tracking of Users, for example by accessing or storing information on
+the User's device.
+
 ------------------------------------------------------------------------
 
 #### Legal information
@@ -889,4 +967,4 @@ Data Protection Regulation).
 This privacy policy relates solely to Scribbn, if not stated otherwise
 within this document.
 
-Latest update: October 1, 2021
+Latest update: June 10, 2022
