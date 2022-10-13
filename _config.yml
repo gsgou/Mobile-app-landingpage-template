@@ -7,7 +7,7 @@ title: Quikkauf
 email: quikkauf@outlook.com
 description: shows you open shops without waiting lines
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://quikkauf.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quikkauf.studio9.app" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 #twitter_username: sandochee
 #github_username:  sandoche
