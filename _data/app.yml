@@ -1,21 +1,17 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Voice Crush
+description: removes distracting background noises from<br>your voice messages, giving you peace of mind
+full_description: 'Sick of looking for a quiet corner to record your voice message? Feeling overwhelmed listening to noisy messages? Voice Crush removes distracting background noises and echoes from your mic and speaker, allowing voices to be heard more clearly.<br><br>Speak confidently with your friends and coworkers while there are barking dogs, a running vacuum, or construction going on at home. When traveling, you can also talk in a car, coffee shop, or airport without worrying about noise.'
+android: https://play.google.com/store/apps/details?id=com.studio9.voicecrush
+iOS: https://apps.apple.com/us/app/voicecrush/id1670383196
+#web: 
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+#producthunt: https://telegra.ph/Replace-this-link-07-23
+#companies:
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: androidpolice.png
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: producthunt.png
