@@ -43,7 +43,7 @@ Georgios Sgouridis\
 Hadlichstraße 33\
 13187, Berlin
 
-**Owner contact email:** quikkauf\@outlook.com
+**Owner contact email:** quikkauf\@studio9.app
 
 # Full policy
 
@@ -53,7 +53,7 @@ Georgios Sgouridis\
 Hadlichstraße 33\
 13187, Berlin
 
-**Owner contact email:** quikkauf\@outlook.com
+**Owner contact email:** quikkauf\@studio9.app
 
 ## Types of Data collected
 
@@ -978,4 +978,4 @@ Data Protection Regulation).
 This privacy policy relates solely to Quikkauf, if not stated otherwise
 within this document.
 
-Latest update: October 18, 2021
+Latest update: February 16, 2023

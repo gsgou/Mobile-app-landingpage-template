@@ -6,7 +6,7 @@ app:
 footer:
   copyright: Made with ❤️ in Berlin 🇩🇪 by <a href="https://www.linkedin.com/in/gsgou" target="_blank">Giorgos</a> & <a href="https://www.linkedin.com/in/stefaniedioneloveday" target="_blank">Stefanie</a> & <a href="https://www.linkedin.com/in/ana-cantoni-11951434" target="_blank">Ana</a>
   links:
-    #- title: Terms and Conditions
-    #  url: /terms
+    - title: Terms and Conditions
+      url: /terms
     - title: Privacy Policy
       url: /privacy
