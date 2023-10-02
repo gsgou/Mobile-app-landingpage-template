@@ -4,7 +4,7 @@ app:
   #featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Berlin by <a href="https://www.linkedin.com/in/gsgou" target="_blank">Giorgos</a>
+  copyright: Made with ❤️ in Berlin
   links:
     - title: Terms and Conditions
       url: /terms
