@@ -10,5 +10,7 @@ screenshots:
   - 3.png
   - 4.png
 companies:
+  - url: https://alternativeto.net/software/voice-crush/about
+    image: alternativeto.png
   - url: https://producthunt.com/posts/voice-crush
     image: producthunt.png
