@@ -36,6 +36,7 @@ privacy rights](#information-for-users-residing-in-brazil).
         Personal Data: Usage Data
 -   ### Third-party services
     -   ### Audo API
+    -   ### Cleanvoice API
 
 ## Contact information
 
@@ -333,8 +334,14 @@ following services:
     #### Audo AI API(s)
 
     Audo AI API(s) is an audio denoise service provided by Audo that allows
-    Voice Crush to incorporate content of this kind on its pages.\
+    Voice Crush to incorporate features of this kind on its pages.\
     [Audo\'s privacy policy applies](https://audo.ai/privacy-policy).
+
+    #### Cleanvoice API(s)
+
+    Cleanvoice API(s) is an audio editing AI service that allows
+    Voice Crush to incorporate features of this kind on its pages.\
+    [Cleanvoice\'s privacy policy applies](https://app.privasee.io/privacy-portal/6284bbd02a42a600145b3a61?theme=light).
 
 -   ### Handling payments
 
@@ -1005,4 +1012,4 @@ Data Protection Regulation).
 This privacy policy relates solely to Voice Crush, if not stated otherwise
 within this document.
 
-Latest update: May 8, 2023
+Latest update: October 30, 2023

@@ -38,6 +38,7 @@ Hadlichstraße 33\
 The following documents are incorporated by reference into these Terms:
 
 -   [Audo Terms of Service](https://audo.ai/terms-of-service)
+-   [Cleanvoice Terms of Service](https://cleanvoice.ai/toc)
 
 ## What the User should know at a glance
 
@@ -495,4 +496,4 @@ Any User qualifying as a natural person who accesses goods or services
 for personal use, or more generally, acts for purposes outside their
 trade, business, craft or profession.
 
-Latest update: Februar 14, 2023
+Latest update: October 30, 2023
