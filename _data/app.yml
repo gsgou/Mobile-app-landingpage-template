@@ -10,11 +10,11 @@ screenshots:
   - 3.png
   - 4.png
 companies:
-  - url: https://theresanaiforthat.com/ai/voice-crush/?ref=featured&v=692907
+  - url: https://theresanaiforthat.com/ai/voice-crush
     image: theresanaiforthat.png
+  - url: https://www.bug.hr/appdana/voice-crush-mobilni-snimac-tona-koja-nastoji-eliminirati-pozadinske-sumove-37103
+    image: bug.png
   - url: https://applicantes.com/app-reducir-ruido-audios
     image: applicantes.png
-  - url: https://producthunt.com/posts/voice-crush
-    image: producthunt.png
   - url: https://alternativeto.net/software/voice-crush/about
     image: alternativeto.png
