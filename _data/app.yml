@@ -10,6 +10,8 @@ screenshots:
   - 3.png
   - 4.png
 companies:
+  - url: https://www.stork.ai/es/ai-tools/voice-crush
+    image: stork.png
   - url: https://theresanaiforthat.com/ai/voice-crush
     image: theresanaiforthat.png
   - url: https://www.bug.hr/appdana/voice-crush-mobilni-snimac-tona-koja-nastoji-eliminirati-pozadinske-sumove-37103
