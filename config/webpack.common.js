@@ -6,6 +6,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 
 module.exports = {
+  mode: 'production',
   entry: {
     app: './_src/index.js',
   },
@@ -13,10 +14,15 @@ module.exports = {
     new FaviconsWebpackPlugin({
       logo: './icon.png',
       manifest: './config/manifest.json',
+      publicPath: './'
     }),
     new HtmlWebpackPlugin({
       template: './_src/template/default.html',
       filename: '../_layouts/default.html',
+    }),
+    new HtmlWebpackPlugin({
+      template: './_src/template/default_without_footer.html',
+      filename: '../_layouts/default_without_footer.html',
     }),
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({

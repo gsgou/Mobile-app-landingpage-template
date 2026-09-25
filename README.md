@@ -1,16 +1,22 @@
-<p align="center">
-  <img src="/docs/animation/animation.gif" width="150">
-</p>
-<h1 align="center">Mobile App Landing Page Template</h1>
-<p>
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
-  <a href="https://medium.com/@sandoche" target="_blank"><img src="https://badgen.net/badge/icon/medium?icon=medium&label" alt="medium: sandoche"></a>
-  <a href="https://twitter.com/sandochee">
-    <img alt="Twitter: sandochee" src="https://img.shields.io/twitter/follow/sandochee.svg?style=social" target="_blank" />
-  </a>
-</p>
 
-📱 Free to use static generated landing page template for your mobile app
+
+
+<h1 align="center">Mobile App Landing for GitHub Pages</h1>
+
+### Made for [NeonFrame.app](https://neonframe.app)
+
+### based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template) and adapted to use with GitHub Actions:
+```
+.github/workflows/jekyll.yml
+```
+
+![Run Unit Tests](https://github.com/mobiledevpro/neonframe.page/actions/workflows/jekyll.yml/badge.svg)
+
+![Screenshot from 2025-02-19 14-24-54](https://github.com/user-attachments/assets/5626554c-7a23-4664-a111-4761875aa474)
+
+
+### [Article how to easily make the landing with GitHub Pages](https://www.linkedin.com/pulse/beautiful-landing-mobile-app-github-pages-dmitri-chernysh-tfakf/)
+##
 
 ## 💡 Features
 Mobile App Landing Page Template comes with pre-installed features and options:
@@ -30,15 +36,13 @@ Mobile App Landing Page Template comes with pre-installed features and options:
 
 ## ✨ Demo
 Check out websites using the Mobile App Template:
+
+- https://neonframe.app
+- https://closetalk.app
 - https://mobileapplandingpage.learn.uno (demo website)
-- https://gitnews.learn.uno
-- https://textblast.learn.uno
-- https://infinideas.learn.uno
-- https://www.therandominion.com/
 
-## 📖 How to use
 
-### The normal way
+## 📖 How to use the template
 
 1. Fork this project
 2. Edit `_config.yml`, feel free to commut/uncomment what you need (google analtytics, or github for example)
@@ -46,14 +50,8 @@ Check out websites using the Mobile App Template:
 4. Update the text from `_data/strings.yml`, you can customize there the footer's links
 5. Edit icons and screenshots inside the `_images` folder and `icon.png` in the root
 6. Edit `_src/index.js` to update the product hunt modal (or to remove it) and to remove the darkmode plugin if you don't want it
-7. Deploy (on netlify, gitpages or surge, they are all free)
+7. Deploy (on netlify, Git Pages or surge, they are all free)
 
-### The no-code way
-
-1. Go to https://t3mpl.n4no.com/editor/#manifest=../templates/mobile-app-landing-page/template.yaml
-2. Edit the settings on the left part
-3. Click on the `Publish` button then `Save Webpage as .zip`
-4. Unzip and upload the folder to your server (you can drag'n'drop it in Netlify to host it there for free)
 
 ## ⚙️ How to run
 
@@ -77,24 +75,32 @@ npm start
 npm run build
 ```
 
-### Deploy to netlify (for free)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandoche/Mobile-app-landingpage-template)
+### Update gem version (Gemfile.lock)
+```
+   bundle install
+```
 
 ### More documentation
 This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
 
-## 🤝 Contributing
-Contributions, issues and feature requests are welcome!
+##
+### Have suggestions? [Open the issue](https://github.com/mobiledevpro/neonframe.page/issues) or reach out to me:
 
-## ⭐️ Show your support
-Please ⭐️ this repository if this project helped you!
+<a href="https://github.com/dmitriy-chernysh" target="_blank">
+  <img src="https://s.gravatar.com/avatar/72c649d298a8f0f088fd0850e19b9147?s=400" width="70" align="left">
+</a>
 
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
+**Dmitri Chernysh**
 
-## 🍺 Buy me a beer 
-If you like this project, feel free to donate:
-* PayPal: https://www.paypal.me/kanbanote
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+
+##
+### Thanks for the support
+**Stargazers**
+
+[![Stargazers repo roster for @mobiledevpro/closetalk.app](http://reporoster.com/stars/dark/mobiledevpro/neonframe.page)](https://github.com/mobiledevpro/neonframe.page/stargazers)
+
+**Forkers**
+
+[![Forkers repo roster for @mobiledevpro/closetalk.app](http://reporoster.com/forks/dark/mobiledevpro/neonframe.page)](https://github.com/mobiledevpro/neonframe.page/network/members)
