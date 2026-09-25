@@ -3,24 +3,26 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Screenshot Maker app for Android - NeonFrame
-email: support@mobile-dev.pro
-description: Level up your socil media post with NeonFrame - the ultimate screenshot maker app for Android. Create stunning, professional-looking screenshots in seconds. Download now and elevate your content!
-baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
-url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme_color: '#FF191C1D'
-twitter_username: mobiledev_pro
-github_username:  mobiledevpro
-author: Dmitri Chernysh
+title: BP Copilot
+email: bpcopilot@studio9.app
+description: Your blood pressure, decoded
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bpcopilot.studio9.app" # the base hostname & protocol for your site, e.g. http://example.com
+theme_color: '#512BD4'
+#twitter_username: sandochee
+#github_username:  sandoche
+author: Georgios Sgouridis
 logo: assets/images/large-logo.png
-twitter:
-  username: mobiledev_pro
-social:
-  name: mobiledevpro
-  links:
-    - https://twitter.com/mobiledev_pro
-    - https://www.linkedin.com/in/dmitriychernysh
-    - https://github.com/dmitriy-chernysh
+#twitter:
+# username: sandochee
+#social:
+#  name: Sandoche Adittane
+#  links:
+#    - https://twitter.com/sandochee
+#    - https://www.facebook.com/sandoche
+#    - https://www.linkedin.com/in/sandoche
+#    - https://plus.google.com/+SandocheADITTANE
+#    - https://github.com/sandoche
 
 languages: ["en"]
 ampdir: amp
@@ -29,8 +31,8 @@ github: false
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
-#google: verification_code
-google_analytics: G-7J55TB6YYJ
+#  google: verification_code
+#google_analytics: G-Q8E63B3NZJ
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
@@ -65,3 +67,6 @@ exclude:
   - optimization-fix-this-file-is-ignored.js
   - icon.png
   - docs
+  - netlify.toml
+  - package-lock.json
+  - app-ads.txt
