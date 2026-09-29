@@ -8,6 +8,8 @@ app:
 footer:
   copyright: Made with ❤️ in Germany
   links:
+    - title: Impressum
+      url: /impressum
     - title: Terms and Conditions
       url: /terms
     - title: Privacy Policy
