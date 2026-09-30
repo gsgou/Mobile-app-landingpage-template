@@ -1,499 +1,265 @@
 ---
 layout: page
-title: Terms and Conditions
+title: Terms of Service
 permalink: /terms/
 ---
 
-These Terms govern
+**Last updated:** September 30, 2026
 
--   the use of Voice Crush, and,
--   any other related Agreement or legal relationship with the Owner
+## Agreement to Our Legal Terms
 
-in a legally binding way. Capitalized words are defined in the relevant
-dedicated section of this document.
+These Legal Terms govern your use of the mobile application **BP Copilot** (the "App"), as well as any other related products and services that refer or link to these Legal Terms (collectively, the "Services").
 
-The User must read this document carefully.
+**Owner ("we," "us," or "our"):** Georgios Sgouridis, an individual based in Germany.
 
-Although the entire contractual relationship relating to these Products
-is entered into solely by the Owner and Users, Users acknowledge and
-agree that, where Voice Crush has been provided to them via the Apple App
-Store, Apple may enforce these Terms as a third-party beneficiary.
+BP Copilot is intended for individual users to track and record their own blood-pressure information for personal, non-clinical use.
 
-Voice Crush is owned by:
+You can contact us by email at bpcopilot\@studio9.app. Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and us, concerning your access to and use of the Services. By accessing the Services, you agree that you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
-**Owner contact email:** voicecrush\@studio9.app
+Although the entire contractual relationship relating to the Services is entered into solely between us and you, you acknowledge and agree that, where the App has been provided to you via the Apple App Store or Google Play, the applicable App Distributor may enforce these Legal Terms as a third-party beneficiary. Where these Legal Terms conflict with the applicable App Distributor's own terms of service, the App Distributor's terms shall prevail.
 
-Voice Crush is developed and published by:
+The following third-party terms of service are incorporated by reference into these Legal Terms, to the extent they apply to your use of the Services:
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+- [Sentry Terms of Service](https://sentry.io/terms/)
+- [RevenueCat Terms of Service](https://www.revenuecat.com/terms)
 
-**Developer and publisher contact email:** voicecrush\@studio9.app
+Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. Such changes will only affect our relationship with you for the future; any purchase or use that occurred before a change remains governed by these Legal Terms as they existed at that time. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
 
-The following documents are incorporated by reference into these Terms:
+The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.
 
--   [Audo Terms of Service](https://audo.ai/terms-of-service)
--   [Cleanvoice Terms of Service](https://cleanvoice.ai/toc)
+## Table of Contents
 
-## What the User should know at a glance
+1. [Our Services](#1-our-services)
+2. [Intellectual Property Rights](#2-intellectual-property-rights)
+3. [User Representations](#3-user-representations)
+4. [Products](#4-products)
+5. [Purchases and Payment](#5-purchases-and-payment)
+6. [Refunds Policy](#6-refunds-policy)
+7. [Prohibited Activities](#7-prohibited-activities)
+8. [Mobile Application License](#8-mobile-application-license)
+9. [Services Management](#9-services-management)
+10. [Privacy Policy](#10-privacy-policy)
+11. [Term and Termination](#11-term-and-termination)
+12. [Modifications and Interruptions](#12-modifications-and-interruptions)
+13. [Governing Law](#13-governing-law)
+14. [Dispute Resolution](#14-dispute-resolution)
+15. [Corrections](#15-corrections)
+16. [Disclaimer](#16-disclaimer)
+17. [Limitations of Liability](#17-limitations-of-liability)
+18. [Indemnification](#18-indemnification)
+19. [User Data](#19-user-data)
+20. [Electronic Communications, Transactions, and Signatures](#20-electronic-communications-transactions-and-signatures)
+21. [California Users and Residents](#21-california-users-and-residents)
+22. [Miscellaneous](#22-miscellaneous)
+23. [Contact Us](#23-contact-us)
+24. [Definitions](#24-definitions)
 
--   The Service/VoiceCrush is only intended for Consumers.
+## 1. Our Services
 
-------------------------------------------------------------------------
+The information provided when using the Services is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation, or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
-## TERMS OF USE
+The Services are not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use the Services. You may not use the Services in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-Unless otherwise specified, the terms of use detailed in this section
-apply generally when using Voice Crush.
+**Not Medical Advice.** BP Copilot is intended solely for personal, non-clinical tracking and recording of blood-pressure and related information. It is not a medical device, does not provide medical advice, diagnosis, or treatment, and is not a substitute for professional healthcare guidance. Always consult a qualified healthcare professional regarding any health concerns or before making any decisions based on information recorded in the App.
 
-Single or additional conditions of use or access may apply in specific
-scenarios and in such cases are additionally indicated within this
-document.
+**Access to External Resources.** The Services rely on external resources and platforms we do not control, including Apple HealthKit, Google Health Connect, and our service providers Sentry and RevenueCat. You acknowledge and accept that we have no control over these external resources and are therefore not responsible for their availability, content, or performance.
 
-By using Voice Crush, Users confirm to meet the following requirements:
+## 2. Intellectual Property Rights
 
--   Users must qualify as Consumers;
--   Users aren't located in a country that is subject to a U.S.
-    Government embargo, or that has been designated by the U.S.
-    Government as a "terrorist-supporting" country;
--   Users aren't listed on any U.S. Government list of prohibited or
-    restricted parties;
+### Our intellectual property
 
-### Content on Voice Crush
+We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, designs, audio, video, text, photographs, and graphics in the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").
 
-Unless where otherwise specified or clearly recognizable, all content
-available on Voice Crush is owned or provided by the Owner or its
-licensors.
+Our Content and Marks are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws and treaties around the world.
 
-The Owner undertakes its utmost effort to ensure that the content
-provided on Voice Crush infringes no applicable legal provisions or
-third-party rights. However, it may not always be possible to achieve
-such a result.\
-In such cases, without prejudice to any legal prerogatives of Users to
-enforce their rights, Users are kindly asked to preferably report
-related complaints using the contact details provided in this document.
+The Content and Marks are provided in or through the Services "AS IS" for your personal, non-commercial use only.
 
-#### Rights regarding content on Voice Crush - All rights reserved
+### Your use of our Services
 
-The Owner holds and reserves all intellectual property rights for any
-such content.
+Subject to your compliance with these Legal Terms, including the [Prohibited Activities](#7-prohibited-activities) section below, we grant you a non-exclusive, non-transferable, revocable license to:
 
-Users may not therefore use such content in any way that is not
-necessary or implicit in the proper use of the Service.
+- access the Services, and
+- download or print a copy of any portion of the Content to which you have properly gained access,
 
-In particular, but without limitation, Users may not copy, download,
-share (beyond the limits set forth below), modify, translate, transform,
-publish, transmit, sell, sublicense, edit, transfer/assign to third
-parties or create derivative works from the content available on
-Voice Crush, nor allow any third party to do so through the User or their
-device, even without the User\'s knowledge.
+solely for your personal, non-commercial use.
 
-Where explicitly stated on Voice Crush, the User may download, copy and/or
-share some content available through Voice Crush for its sole personal and
-non-commercial use and provided that the copyright attributions and all
-the other attributions requested by the Owner are correctly implemented.
+Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-Any applicable statutory limitation or exception to copyright shall stay
-unaffected.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to bpcopilot\@studio9.app.
 
-### Access to external resources
+We reserve all rights not expressly granted to you in and to the Services, Content, and Marks. Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
 
-Through Voice Crush Users may have access to external resources provided by
-third parties. Users acknowledge and accept that the Owner has no
-control over such resources and is therefore not responsible for their
-content and availability.
-
-Conditions applicable to any resources provided by third parties,
-including those applicable to any possible grant of rights in content,
-result from each such third parties' terms and conditions or, in the
-absence of those, applicable statutory law.
-
-### Acceptable use
-
-Voice Crush and the Service may only be used within the scope of what they
-are provided for, under these Terms and applicable law.
-
-Users are solely responsible for making sure that their use of Voice Crush
-and/or the Service violates no applicable law, regulations or
-third-party rights.
-
-Therefore, the Owner reserves the right to take any appropriate measure
-to protect its legitimate interests including by denying Users access to
-Voice Crush or the Service, terminating contracts, reporting any misconduct
-performed through Voice Crush or the Service to the competent authorities
--- such as judicial or administrative authorities - whenever Users
-engage or are suspected to engage in any of the following activities:
-
--   violate laws, regulations and/or these Terms;
--   infringe any third-party rights;
--   considerably impair the Owner's legitimate interests;
--   offend the Owner or any third party.
-
-### Purchase via app store
-
-Voice Crush or specific Products available for sale on Voice Crush must be
-purchased via a third-party app store. To access such purchases, Users
-must follow the instructions provided on the relevant online store (such
-as \"Apple App Store\" or \"Google Play\"), which may vary depending on
-the particular device in use.
-
-Unless otherwise specified, purchases done via third-party online stores
-are also subject to such third-parties' terms and conditions, which, in
-case of any inconsistency or conflict, shall always prevail upon these
-Terms.
-
-Users purchasing through such third-party online stores must therefore
-read such terms and conditions of sale carefully and accept them.
-
-## Liability and indemnification
-
-### EU Users
-
-#### Indemnification
-
-The User agrees to indemnify and hold the Owner and its subsidiaries,
-affiliates, officers, directors, agents, co-branders, partners and
-employees harmless from and against any claim or demand ⁠--- including
-but not limited to lawyer\'s fees and costs ⁠--- made by any third party
-due to or in relation with any culpable use of or connection to the
-Service, violation of these Terms, infringement of any third-party
-rights or statutory provision by the User or its affiliates, officers,
-directors, agents, co-branders, partners and employees to the extent
-allowed by applicable law.
-
-#### Limitation of liability
-
-Unless otherwise explicitly stated and without prejudice to applicable
-statutory product liability provisions, Users shall have no right to
-claim damages against the Owner (or any natural or legal person acting
-on its behalf).
-
-This does not apply to damages to life, health or physical integrity,
-damages resulting from the breach of an essential contractual obligation
-such as any obligation strictly necessary to achieve the purpose of the
-contract, and/or damages resulting from intent or gross negligence, as
-long as Voice Crush has been appropriately and correctly used by the User.
-
-Unless damages have been caused by way of intent or gross negligence, or
-they affect life, health or physical integrity, the Owner shall only be
-liable to the extent of typical and foreseeable damages at the moment
-the contract was entered into.
-
-### US Users
-
-#### Disclaimer of Warranties
-
-**Voice Crush is provided strictly on an "as is" and "as available" basis.
-Use of the Service is at Users' own risk. To the maximum extent
-permitted by applicable law, the Owner expressly disclaims all
-conditions, representations, and warranties --- whether express,
-implied, statutory or otherwise, including, but not limited to, any
-implied warranty of merchantability, fitness for a particular purpose,
-or non-infringement of third-party rights. No advice or information,
-whether oral or written, obtained by user from owner or through the
-Service will create any warranty not expressly stated herein.**
-
-**Without limiting the foregoing, the Owner, its subsidiaries,
-affiliates, licensors, officers, directors, agents, co-branders,
-partners, suppliers and employees do not warrant that the content is
-accurate, reliable or correct; that the Service will meet Users'
-requirements; that the Service will be available at any particular time
-or location, uninterrupted or secure; that any defects or errors will be
-corrected; or that the Service is free of viruses or other harmful
-components. Any content downloaded or otherwise obtained through the use
-of the Service is downloaded at users own risk and users shall be solely
-responsible for any damage to Users' computer system or mobile device or
-loss of data that results from such download or Users' use of the
-Service.**
-
-**The Owner does not warrant, endorse, guarantee, or assume
-responsibility for any product or service advertised or offered by a
-third party through the Service or any hyperlinked website or service,
-and the Owner shall not be a party to or in any way monitor any
-transaction between Users and third-party providers of products or
-services.**
-
-**The Service may become inaccessible or it may not function properly
-with Users' web browser, mobile device, and/or operating system. The
-owner cannot be held liable for any perceived or actual damages arising
-from Service content, operation, or use of this Service.**
-
-**Federal law, some states, and other jurisdictions, do not allow the
-exclusion and limitations of certain implied warranties. The above
-exclusions may not apply to Users. This Agreement gives Users specific
-legal rights, and Users may also have other rights which vary from state
-to state. The disclaimers and exclusions under this agreement shall not
-apply to the extent prohibited by applicable law.**
-
-#### Limitations of liability
-
-**To the maximum extent permitted by applicable law, in no event shall
-the Owner, and its subsidiaries, affiliates, officers, directors,
-agents, co-branders, partners, suppliers and employees be liable for**
-
--   **any indirect, punitive, incidental, special, consequential or
-    exemplary damages, including without limitation damages for loss of
-    profits, goodwill, use, data or other intangible losses, arising out
-    of or relating to the use of, or inability to use, the Service;
-    and**
--   **any damage, loss or injury resulting from hacking, tampering or
-    other unauthorized access or use of the Service or User account or
-    the information contained therein;**
--   **any errors, mistakes, or inaccuracies of content;**
--   **personal injury or property damage, of any nature whatsoever,
-    resulting from User access to or use of the Service;**
--   **any unauthorized access to or use of the Owner's secure servers
-    and/or any and all personal information stored therein;**
--   **any interruption or cessation of transmission to or from the
-    Service;**
--   **any bugs, viruses, trojan horses, or the like that may be
-    transmitted to or through the Service;**
--   **any errors or omissions in any content or for any loss or damage
-    incurred as a result of the use of any content posted, emailed,
-    transmitted, or otherwise made available through the Service;
-    and/or**
--   **the defamatory, offensive, or illegal conduct of any User or third
-    party. In no event shall the Owner, and its subsidiaries,
-    affiliates, officers, directors, agents, co-branders, partners,
-    suppliers and employees be liable for any claims, proceedings,
-    liabilities, obligations, damages, losses or costs in an amount
-    exceeding the amount paid by User to the Owner hereunder in the
-    preceding 12 months, or the period of duration of this agreement
-    between the Owner and User, whichever is shorter.**
-
-**This limitation of liability section shall apply to the fullest extent
-permitted by law in the applicable jurisdiction whether the alleged
-liability is based on contract, tort, negligence, strict liability, or
-any other basis, even if company has been advised of the possibility of
-such damage.**
-
-**Some jurisdictions do not allow the exclusion or limitation of
-incidental or consequential damages, therefore the above limitations or
-exclusions may not apply to User. The terms give User specific legal
-rights, and User may also have other rights which vary from jurisdiction
-to jurisdiction. The disclaimers, exclusions, and limitations of
-liability under the terms shall not apply to the extent prohibited by
-applicable law.**
-
-#### Indemnification
-
-**The User agrees to defend, indemnify and hold the Owner and its
-subsidiaries, affiliates, officers, directors, agents, co-branders,
-partners, suppliers and employees harmless from and against any and all
-claims or demands, damages, obligations, losses, liabilities, costs or
-debt, and expenses, including, but not limited to, legal fees and
-expenses, arising from**
-
--   **User's use of and access to the Service, including any data or
-    content transmitted or received by User;**
--   **User's violation of these terms, including, but not limited to,
-    User's breach of any of the representations and warranties set forth
-    in these terms;**
--   **User's violation of any third-party rights, including, but not
-    limited to, any right of privacy or intellectual property rights;**
--   **User's violation of any statutory law, rule, or regulation;**
--   **any content that is submitted from User's account, including third
-    party access with User's unique username, password or other security
-    measure, if applicable, including, but not limited to, misleading,
-    false, or inaccurate information;**
--   **User's wilful misconduct; or**
--   **statutory provision by User or its affiliates, officers,
-    directors, agents, co-branders, partners, suppliers and employees to
-    the extent allowed by applicable law.**
-
-## Common provisions
-
-### No Waiver
-
-The Owner's failure to assert any right or provision under these Terms
-shall not constitute a waiver of any such right or provision. No waiver
-shall be considered a further or continuing waiver of such term or any
-other term.
-
-### Service interruption
-
-To ensure the best possible service level, the Owner reserves the right
-to interrupt the Service for maintenance, system updates or any other
-changes, informing the Users appropriately.
-
-Within the limits of law, the Owner may also decide to suspend or
-terminate the Service altogether. If the Service is terminated, the
-Owner will cooperate with Users to enable them to withdraw Personal Data
-or information in accordance with applicable law.
-
-Additionally, the Service might not be available due to reasons outside
-the Owner's reasonable control, such as "force majeure" (eg. labor
-actions, infrastructural breakdowns or blackouts etc).
-
-### Service reselling
-
-Users may not reproduce, duplicate, copy, sell, resell or exploit any
-portion of Voice Crush and of its Service without the Owner's express prior
-written permission, granted either directly or through a legitimate
-reselling programme.
-
-### Privacy policy
-
-To learn more about the use of their Personal Data, Users may refer to
-the privacy policy of Voice Crush.
-
-### Intellectual property rights
-
-Without prejudice to any more specific provision of these Terms, any
-intellectual property rights, such as copyrights, trademark rights,
-patent rights and design rights related to Voice Crush are the exclusive
-property of the Owner or its licensors and are subject to the protection
-granted by applicable laws or international treaties relating to
-intellectual property.
-
-All trademarks --- nominal or figurative --- and all other marks, trade
-names, service marks, word marks, illustrations, images, or logos
-appearing in connection with Voice Crush are, and remain, the exclusive
-property of the Owner or its licensors and are subject to the protection
-granted by applicable laws or international treaties related to
-intellectual property.
-
-### Changes to these Terms
-
-The Owner reserves the right to amend or otherwise modify these Terms at
-any time. In such cases, the Owner will appropriately inform the User of
-these changes.
-
-Such changes will only affect the relationship with the User for the
-future.
-
-The continued use of the Service will signify the User's acceptance of
-the revised Terms. If Users do not wish to be bound by the changes, they
-must stop using the Service. Failure to accept the revised Terms, may
-entitle either party to terminate the Agreement.
-
-The applicable previous version will govern the relationship prior to
-the User\'s acceptance. The User can obtain any previous version from
-the Owner.
-
-If required by applicable law, the Owner will specify the date by which
-the modified Terms will enter into force.
-
-### Assignment of contract
-
-The Owner reserves the right to transfer, assign, dispose of by
-novation, or subcontract any or all rights or obligations under these
-Terms, taking the User's legitimate interests into account. Provisions
-regarding changes of these Terms will apply accordingly.
-
-Users may not assign or transfer their rights or obligations under these
-Terms in any way, without the written permission of the Owner.
-
-### Contacts
-
-All communications relating to the use of Voice Crush must be sent using
-the contact information stated in this document.
-
-### Severability
-
-Should any provision of these Terms be deemed or become invalid or
-unenforceable under applicable law, the invalidity or unenforceability
-of such provision shall not affect the validity of the remaining
-provisions, which shall remain in full force and effect.
-
-#### US Users
-
-Any such invalid or unenforceable provision will be interpreted,
-construed and reformed to the extent reasonably required to render it
-valid, enforceable and consistent with its original intent. These Terms
-constitute the entire Agreement between Users and the Owner with respect
-to the subject matter hereof, and supersede all other communications,
-including but not limited to all prior agreements, between the parties
-with respect to such subject matter. These Terms will be enforced to the
-fullest extent permitted by law.
-
-#### EU Users
-
-Should any provision of these Terms be or be deemed void, invalid or
-unenforceable, the parties shall do their best to find, in an amicable
-way, an agreement on valid and enforceable provisions thereby
-substituting the void, invalid or unenforceable parts.\
-In case of failure to do so, the void, invalid or unenforceable
-provisions shall be replaced by the applicable statutory provisions, if
-so permitted or stated under the applicable law.
-
-Without prejudice to the above, the nullity, invalidity or the
-impossibility to enforce a particular provision of these Terms shall not
-nullify the entire Agreement, unless the severed provisions are
-essential to the Agreement, or of such importance that the parties would
-not have entered into the contract if they had known that the provision
-would not be valid, or in cases where the remaining provisions would
-translate into an unacceptable hardship on any of the parties.
-
-### Governing law
-
-These Terms are governed by the law of the place where the Owner is
-based, as disclosed in the relevant section of this document, without
-regard to conflict of laws principles.
-
-#### Exception for European Consumers
-
-However, regardless of the above, if the User qualifies as a European
-Consumer and has their habitual residence in a country where the law
-provides for a higher consumer protection standard, such higher
-standards shall prevail.
-
-### Venue of jurisdiction
-
-The exclusive competence to decide on any controversy resulting from or
-connected to these Terms lies with the courts of the place where the
-Owner is based, as displayed in the relevant section of this document.
-
-#### Exception for European Consumers
-
-The above does not apply to any Users that qualify as European
-Consumers, nor to Consumers based in Switzerland, Norway or Iceland.
-
-### Definitions and legal references
-
-#### Voice Crush (or this Application)
-
-The property that enables the provision of the Service.
-
-#### Agreement
-
-Any legally binding or contractual relationship between the Owner and
-the User, governed by these Terms.
-
-#### European (or Europe)
-
-Applies where a User is physically present or has their registered
-offices within the EU, regardless of nationality.
-
-#### Owner (or We)
-
-Indicates the natural person(s) or legal entity that provides Voice Crush
-and/or the Service to Users.
-
-#### Service
-
-The service provided by Voice Crush as described in these Terms and on
-Voice Crush.
-
-#### Terms
-
-All provisions applicable to the use of Voice Crush and/or the Service as
-described in this document, including any other related documents or
-agreements, and as updated from time to time.
-
-#### User (or You)
-
-Indicates any natural person or legal entity using Voice Crush.
-
-#### Consumer
-
-Any User qualifying as a natural person who accesses goods or services
-for personal use, or more generally, acts for purposes outside their
-trade, business, craft or profession.
-
-Latest update: October 30, 2023
+## 3. User Representations
+
+By using the Services, you represent and warrant that: (1) you have the legal capacity and you agree to comply with these Legal Terms; (2) you are not a minor in the jurisdiction in which you reside; (3) you will not access the Services through automated or non-human means, whether through a bot, script, or otherwise; (4) you will not use the Services for any illegal or unauthorized purpose; and (5) your use of the Services will not violate any applicable law or regulation.
+
+If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your access and refuse any and all current or future use of the Services.
+
+## 4. Products
+
+All products are subject to availability. We reserve the right to discontinue any products at any time for any reason. Prices for all products are subject to change.
+
+## 5. Purchases and Payment
+
+We accept payment for one-time in-app purchases through the Apple App Store and Google Play, using whatever payment method you have configured with your Apple ID or Google Play account. All payments are processed directly by the applicable App Distributor and by our purchase management provider, RevenueCat; we do not directly collect, process, or store your payment card details.
+
+All payments shall be in Euros. Prices are subject to change at any time. We reserve the right to correct any errors or mistakes in pricing, even if payment has already been requested or received, to the extent permitted by applicable law and the relevant App Distributor's own policies.
+
+Purchases made via the Apple App Store or Google Play are also subject to that App Distributor's own terms and conditions of sale, which, in the event of any inconsistency or conflict, shall prevail over these Legal Terms.
+
+## 6. Refunds Policy
+
+Purchases made through BP Copilot are processed and fulfilled by the applicable App Distributor (Apple App Store or Google Play). Refund requests must be submitted directly to the App Distributor in accordance with its own refund policies and procedures — we do not process refunds directly and have no independent mechanism to do so.
+
+Except as required by applicable consumer protection law — including, for consumers habitually resident in the European Union, the statutory right of withdrawal applicable to digital content purchases — all sales are otherwise final. If you are an EU consumer and have not yet begun using the purchased content, you may be entitled to withdraw from the purchase within 14 days in accordance with applicable law; please refer to the applicable App Distributor's own terms for how to exercise this right.
+
+## 7. Prohibited Activities
+
+You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+
+As a user of the Services, you agree not to:
+
+- Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+- Trick, defraud, or mislead us or other users, especially in any attempt to learn sensitive account information.
+- Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services.
+- Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
+- Use any information obtained from the Services to harass, abuse, or harm another person.
+- Make improper use of our support services or submit false reports of abuse or misconduct.
+- Use the Services in a manner inconsistent with any applicable laws or regulations.
+- Engage in unauthorized framing of or linking to the Services.
+- Upload or transmit viruses, Trojan horses, or other material that interferes with any party's use of the Services or that modifies, impairs, disrupts, or interferes with the Services.
+- Engage in any automated use of the Services, such as using scripts to send messages, or using data mining, robots, or similar data-gathering tools.
+- Delete the copyright or other proprietary rights notice from any Content.
+- Attempt to impersonate another user or person.
+- Attempt to bypass any measures designed to prevent or restrict access to the Services.
+- Copy or adapt the Services' software.
+- Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any software comprising the Services.
+- Use the Services as part of any effort to compete with us, or otherwise use the Services for any revenue-generating endeavor or commercial enterprise not endorsed by us.
+- Use the Services for clinical, diagnostic, or professional healthcare purposes, or on behalf of any person other than yourself.
+
+## 8. Mobile Application License
+
+### Use License
+
+If you access the Services via the App, we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wireless electronic devices owned or controlled by you, strictly in accordance with these Legal Terms. You shall not: (1) except as permitted by applicable law, decompile, reverse engineer, disassemble, or attempt to derive the source code of the App; (2) make any modification, adaptation, or derivative work from the App; (3) violate any applicable laws in connection with your access to or use of the App; (4) remove, alter, or obscure any proprietary notice on the App; (5) use the App for any revenue-generating endeavor or purpose for which it is not designed; (6) make the App available over a network permitting simultaneous use by multiple devices or users; (7) use the App to create a competitive product or service; or (8) use the App to send automated queries or unsolicited commercial email.
+
+### Apple and Android Devices
+
+The following applies when you use the App obtained from the Apple App Store or Google Play (each, an "App Distributor"):
+
+- The license granted to you for the App is limited to a non-transferable license to use the application on a device that utilizes the Apple iOS or Android operating system, as applicable, in accordance with the usage rules of the applicable App Distributor's terms of service.
+- We are responsible for providing maintenance and support services with respect to the App, as specified in these Legal Terms or as otherwise required by applicable law. The App Distributor has no obligation to furnish maintenance or support with respect to the App.
+- In the event of any failure of the App to conform to an applicable warranty, you may notify the applicable App Distributor, and the App Distributor may, in accordance with its own terms and policies, refund the purchase price, if any, paid for the App. To the maximum extent permitted by law, the App Distributor has no other warranty obligation with respect to the App.
+- You represent and warrant that you are not located in a country subject to a government embargo, and are not listed on any government list of prohibited or restricted parties.
+- You acknowledge that each App Distributor is a third-party beneficiary of this Mobile Application License and has the right to enforce it against you.
+
+## 9. Services Management
+
+We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms; and (3) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
+
+## 10. Privacy Policy
+
+We care about data privacy and security. Please review our [Privacy Policy](/privacy). By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms.
+
+Please be advised the Services are hosted in Germany and the United States. As described in our Privacy Policy, certain technical and purchase-related information may be transferred to and processed by our service providers in these countries. Health data associated with the App is processed entirely on your device and is not included in any such transfer.
+
+## 11. Term and Termination
+
+These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION.
+
+In addition to denying or terminating access, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+
+## 12. Modifications and Interruptions
+
+We reserve the right to change, modify, or remove the contents of the Services at any time or for any reason at our sole discretion without notice. We have no obligation to update any information on our Services, and we will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Services.
+
+We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems, or need to perform maintenance, resulting in interruptions, delays, or errors. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance. Nothing in these Legal Terms obligates us to maintain and support the Services or to supply any corrections, updates, or releases.
+
+## 13. Governing Law
+
+These Legal Terms are governed by and interpreted following the laws of Germany, and the use of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded.
+
+If your habitual residence is in the EU and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country of residence.
+
+We and you both agree to submit to the non-exclusive jurisdiction of the courts of North Rhine-Westphalia, Germany, which means that you may make a claim to defend your consumer protection rights in regard to these Legal Terms in Germany, or in the EU country in which you reside.
+
+## 14. Dispute Resolution
+
+The European Commission provides information on [consumer redress](https://consumer-redress.ec.europa.eu/index_en), including a list of dispute resolution bodies by country, which you can access if you wish to bring a dispute to a relevant authority's attention. You are also welcome to contact us directly at any time to resolve a dispute informally.
+
+## 15. Corrections
+
+There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update information on the Services at any time, without prior notice.
+
+## 16. Disclaimer
+
+### If You Are Located in the EU
+
+The Services are provided without any statutory or implied warranty beyond what is required under applicable law, without prejudice to any non-waivable statutory rights you may have as a consumer, including any statutory right to digital content or services that conform to these Legal Terms.
+
+As with the use of any product or service, you should use your best judgment and exercise caution where appropriate — and, as set out in [Section 1](#1-our-services), consult a qualified healthcare professional regarding any health-related decisions.
+
+### If You Are Located Outside the EU
+
+THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT AND WILL ASSUME NO LIABILITY FOR: (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (2) PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR ACCESS TO OR USE OF THE SERVICES; (3) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES; OR (4) ANY BUGS, VIRUSES, OR THE LIKE TRANSMITTED THROUGH THE SERVICES BY ANY THIRD PARTY.
+
+## 17. Limitations of Liability
+
+### If You Are Located in the EU
+
+Unless otherwise required by applicable law, and without prejudice to any statutory product liability provisions, you shall have no right to claim damages against us.
+
+This does not apply to damages to life, health, or physical integrity, damages resulting from the breach of an essential contractual obligation (any obligation strictly necessary to achieve the purpose of these Legal Terms), and/or damages resulting from intent or gross negligence, provided that the Services have been appropriately and correctly used.
+
+Unless damages have been caused by intent or gross negligence, or affect life, health, or physical integrity, we shall only be liable to the extent of typical and foreseeable damages at the time these Legal Terms were entered into.
+
+### If You Are Located Outside the EU
+
+IN NO EVENT WILL WE OR OUR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US.
+
+CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
+## 18. Indemnification
+
+You agree to defend, indemnify, and hold us harmless, including our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) your use of the Services; (2) breach of these Legal Terms; (3) any breach of your representations and warranties set forth in these Legal Terms; or (4) your violation of the rights of a third party, including intellectual property rights.
+
+Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of such claims.
+
+## 19. User Data
+
+We do not operate our own servers, so we do not directly maintain or back up your data. Health data you record in the App is stored only on your device, and you are solely responsible for maintaining your own backups (for example, through your device's own backup features such as iCloud or Google's backup services) — we have no ability to recover this data if it is lost, deleted, or corrupted on your device.
+
+Technical diagnostic data and purchase-related data are retained by our service providers (Sentry and RevenueCat) as described in our Privacy Policy. You agree that we shall have no liability to you for any loss or corruption of data, and you hereby waive any right of action against us arising from any such loss or corruption.
+
+## 20. Electronic Communications, Transactions, and Signatures
+
+Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically satisfy any legal requirement that such communication be in writing.
+
+You hereby agree to the use of electronic signatures, contracts, orders, and other records, and to electronic delivery of notices and records of transactions initiated or completed by us or via the Services. You waive any rights or requirements under any statutes or regulations in any jurisdiction which require an original signature or delivery of non-electronic records.
+
+## 21. California Users and Residents
+
+If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
+
+## 22. Miscellaneous
+
+These Legal Terms and any policies or operating rules posted by us in respect to the Services constitute the entire agreement between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control.
+
+If any provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision is deemed severable from these Legal Terms and does not affect the validity of any remaining provisions. There is no joint venture, partnership, employment, or agency relationship created between you and us as a result of these Legal Terms or use of the Services.
+
+## 23. Contact Us
+
+In order to resolve a complaint regarding the Services, or to receive further information regarding use of the Services, please contact us by email at bpcopilot\@studio9.app.
+
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
+
+## 24. Definitions
+
+- **App / Services** — BP Copilot, the mobile application, and any other related products and services that refer or link to these Legal Terms.
+- **Owner ("we," "us," or "our")** — Georgios Sgouridis, the individual who provides the Services.
+- **User ("you" or "your")** — Any natural person using the Services.
+- **Consumer** — Any User who is a natural person acting for purposes outside their trade, business, craft, or profession.
+- **App Distributor** — The Apple App Store or Google Play, through which the App is made available.
+- **Legal Terms** — This document, as updated from time to time.

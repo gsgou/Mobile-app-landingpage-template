@@ -14,7 +14,7 @@ Altenessener Str. 452
 Germany  
 
 **Phone:** +49 15157994347  
-**Email:** [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app)
+**Email:** giorgos\@studio9.app
 
 ## Responsible for Content
 

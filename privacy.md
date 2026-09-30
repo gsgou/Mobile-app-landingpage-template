@@ -1,17 +1,17 @@
 ---
-layout: privacy
+layout: page
 title: Privacy Policy
 permalink: /privacy/
 ---
 
-**Last updated:** September 29, 2026
+**Last updated:** September 30, 2026
 
 This Privacy Notice for Georgios Sgouridis ("we," "us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 
 - Download and use our mobile application (**BP Copilot**), or any other application of ours that links to this Privacy Notice
 - Engage with us in other related ways, including any marketing or events
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app).
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at bpcopilot\@studio9.app.
 
 ## Summary of Key Points
 
@@ -23,7 +23,7 @@ This Privacy Notice for Georgios Sgouridis ("we," "us," or "our") describes how 
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information ([Section 2](#2-how-do-we-process-your-information)).
+**How do we process your information?** We process your information to provide and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information ([Section 2](#2-how-do-we-process-your-information)).
 
 **In what situations and with which parties do we share personal information?** We do not operate our own servers. We may share limited technical and purchase-related information with specific third-party service providers. Learn more about when and with whom we share your personal information ([Section 4](#4-when-and-with-whom-do-we-share-your-personal-information)).
 
@@ -63,11 +63,13 @@ Want to learn more about what we do with any information we collect? Review the 
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+**Personal Information Provided by You — Stored Locally on Your Device Only.** If you choose to provide the following information, it is stored locally on your device only and used for app functionality, such as personalizing PDF reports and enabling a simplified send feature that shares a PDF report with a pre-configured recipient via your device's native email or share function.
 
-- Names
+- Name
 - Date of birth
-- Third-party recipient email
+- Recipient email address
+
+Providing this information is optional and used only for app functionality. If you do not provide it, some app features may not be available.
 
 **Sensitive Information.** When necessary, with your explicit consent, we process the following categories of sensitive information:
 
@@ -82,9 +84,9 @@ We collect personal information that you voluntarily provide to us when you expr
 
 **On-Device Health Data Processing.** Health data synced from Apple HealthKit or Health Connect (blood pressure and resting heart rate) is processed entirely on your device to generate charts and PDF reports within the app. This health data is not transmitted to or accessible by any third party, including our service providers Sentry and RevenueCat.
 
-**Exporting and Sharing Your Data.** The app allows you to export health data as PDF reports and share them using your device's native sharing features (such as email, messaging apps, AirDrop, cloud storage, or printing). This export and sharing is performed entirely by you, at your own discretion. Once exported or shared, this data is no longer within our control, is not subject to this Privacy Notice, and is instead governed by the privacy practices of whichever service or recipient you choose to share it with.
+**Exporting and Sharing Your Data.** The app allows you to export your health data in various file formats (such as PDF or CSV) and share these exports using your device's native sharing features (such as email, messaging apps, AirDrop, cloud storage, or printing). This export and sharing — including the one-tap send feature described above — is performed entirely by you, at your own discretion, through your device's native functionality; we do not transmit this data ourselves. Once exported or shared, this data is no longer within our control, is not subject to this Privacy Notice, and is instead governed by the privacy practices of whichever service or recipient you choose to share it with.
 
-This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+This information is primarily needed to maintain the security and operation of our application(s) and for troubleshooting.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
@@ -92,22 +94,26 @@ All personal information that you provide to us must be true, complete, and accu
 
 *In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services.*
 
-We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
+We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services.
+
+We do not use any analytics tools, and no analytics or performance-monitoring features of our service providers are enabled — Sentry is configured for crash and error reporting only.
 
 The information we collect includes:
 
-- *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information automatically collected when you access or use our Services and which is recorded in crash and error logs by our service provider, Sentry. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings). Sentry is not configured to collect or transmit personal identifiers beyond default technical crash context, and does not receive health data.
+- *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information automatically collected when you access or use our Services and which is recorded in crash and error logs by our service provider, Sentry. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings). Sentry does not collect or transmit personal identifiers beyond default technical crash context, and does not receive health data.
 - *Device Data.* We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
 ## 2. How Do We Process Your Information?
 
-*In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.*
+*In Short: We process your information to provide and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.*
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
 - **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service. (Retention period: For as long as necessary to provide the service and manage purchases and entitlements, or until the information is no longer required, subject to the retention periods of our service providers.)
 - **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention. (Retention period: For as long as necessary for security and diagnostic purposes, in accordance with the retention period configured for our service provider, Sentry.)
 - **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual's vital interest, such as to prevent harm.
+
+We do not carry out any automated decision-making, including profiling, that produces legal or similarly significant effects concerning you.
 
 ## 3. What Legal Bases Do We Rely On to Process Your Personal Information?
 
@@ -124,6 +130,8 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 - **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 **Processing of Health Data.** Because health data is a special category of personal data under Article 9 GDPR, we only process it on the basis of your explicit consent, given when you grant HealthKit or Health Connect permissions within the app. This health data is processed entirely on your device and is not transmitted to us or to any third party. You may withdraw this consent at any time through your device's health data permission settings, which will stop the app from accessing this data going forward.
+
+**Provision of Data.** Providing personal information described in this notice is generally voluntary. If you choose not to grant certain permissions (such as HealthKit or Health Connect access) or not to provide optional information (such as your name, date of birth, or a recipient email), some features of the App may not be available to you, as described in [Section 1](#1-what-information-do-we-collect).
 
 ### If you are located in Canada, this section applies to you.
 
@@ -152,7 +160,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 The third parties we may share personal information with are as follows:
 
-- **App Crash and Error Reporting** — Sentry. Sentry receives technical diagnostic data (such as device information, operating system version, and crash logs) to help us identify and fix bugs. Sentry's default PII-collection setting is disabled in our integration, and Sentry does not receive health data, which is processed entirely on your device. You may find Sentry's privacy notice here: [https://sentry.io/privacy/](https://sentry.io/privacy/)
+- **App Crash and Error Reporting** — Sentry. Sentry receives technical diagnostic data (such as device information, operating system version, and crash logs) to help us identify and fix bugs. Only Sentry's crash and error reporting feature is enabled; its analytics and performance-monitoring features are not used. Sentry's default PII-collection setting is disabled in our integration, and Sentry does not receive health data, which is processed entirely on your device. You may find Sentry's privacy notice here: [https://sentry.io/privacy/](https://sentry.io/privacy/)
 - **One-Time In-App Purchase Management** — RevenueCat. RevenueCat processes payment and purchase information to manage one-time in-app purchases. You may find RevenueCat's privacy notice here: [https://www.revenuecat.com/privacy-policy](https://www.revenuecat.com/privacy-policy)
 
 We also may need to share your personal information in the following situations:
@@ -167,13 +175,15 @@ Regardless of your location, please be aware that information described in [Sect
 
 If you are a resident in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we require our service providers to take all necessary measures to protect your personal information in accordance with applicable law.
 
-**European Commission's Standard Contractual Clauses.** Our third-party service providers implement measures to protect personal information, including the European Commission's Standard Contractual Clauses for transfers of personal information originating from the EEA or UK. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Further details on these safeguards can be provided upon request.
+**Sentry** is self-certified under the EU-U.S. Data Privacy Framework (and its UK and Swiss extensions), which the European Commission and applicable authorities have recognized as providing an adequate level of data protection for transfers to the United States.
+
+**European Commission's Standard Contractual Clauses.** For transfers not otherwise covered by an adequacy mechanism, our third-party service providers implement measures to protect personal information, including the European Commission's Standard Contractual Clauses for transfers of personal information originating from the EEA or UK. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Further details on these safeguards can be provided upon request.
 
 ## 6. How Long Do We Keep Your Information?
 
 *In Short: We do not operate our own servers, so we do not directly store your personal information ourselves. Health data is retained only on your device; other information is retained by our service providers.*
 
-We do not operate our own servers, so we do not directly store or retain your personal information ourselves. Health data is retained only on your device, for as long as you choose to keep it there, and is deleted when you delete the app or manually remove it from your device.
+We do not operate our own servers, so we do not directly store or retain your personal information ourselves. Health data, along with any name, date of birth, or recipient email you choose to provide, is retained only on your device, for as long as you choose to keep it there, and is deleted when you delete the app or manually remove it from your device.
 
 Technical diagnostic information and purchase-related information are retained by our service providers (Sentry and RevenueCat) in accordance with their own retention practices and the retention periods described in [Section 2](#2-how-do-we-process-your-information), unless a longer retention period is required or permitted by law.
 
@@ -191,13 +201,13 @@ However, despite these safeguards, no electronic transmission over the Internet 
 
 *In Short: We do not knowingly collect data from or market to children under 18 years of age (or the equivalent age as specified by law in your jurisdiction).*
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age (or the equivalent age as specified by law in your jurisdiction), nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 (or the equivalent age as specified by law in your jurisdiction) or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app).
+We do not knowingly collect, solicit data from, or market to children under 18 years of age (or the equivalent age as specified by law in your jurisdiction), nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 (or the equivalent age as specified by law in your jurisdiction) or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at bpcopilot\@studio9.app.
 
 ## 9. What Are Your Privacy Rights?
 
 *In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.*
 
-In some regions like the EEA, UK, Switzerland, and Canada, you have certain rights under applicable data protection laws. These may include the right to: (i) request access and obtain a copy of your personal information, (ii) request rectification or erasure, (iii) restrict the processing of your personal information, (iv) if applicable, data portability, and (v) not be subject to automated decision-making. If a decision that produces legal or similarly significant effects is made solely by automated means, we will inform you, explain the main factors, and offer a simple way to request human review. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us using the details in [Section 14](#14-how-can-you-contact-us-about-this-notice).
+In some regions like the EEA, UK, Switzerland, and Canada, you have certain rights under applicable data protection laws. These may include the right to: (i) request access and obtain a copy of your personal information, (ii) request rectification or erasure, (iii) restrict the processing of your personal information, (iv) if applicable, data portability, and (v) not be subject to automated decision-making. As noted in [Section 2](#2-how-do-we-process-your-information), we do not carry out automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us using the details in [Section 14](#14-how-can-you-contact-us-about-this-notice).
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -205,7 +215,7 @@ If you are located in the UK and are unhappy with how we have handled your perso
 
 **How to contact us:**
 
-- **Email:** [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app)
+- **Email:** bpcopilot\@studio9.app
 - **Post:** See [Section 14](#14-how-can-you-contact-us-about-this-notice)
 
 **What happens after you complain:**
@@ -228,7 +238,7 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app).
+If you have questions or comments about your privacy rights, you may email us at bpcopilot\@studio9.app.
 
 ## 10. Controls for Do-Not-Track Features
 
@@ -264,7 +274,6 @@ We only collect sensitive personal information, as defined by applicable privacy
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
 - Receiving help through our customer support channels
-- Participation in customer surveys or contests
 - Facilitation in the delivery of our Services and to respond to your inquiries
 
 We will use and retain the collected personal information as needed to provide the Services or for:
@@ -284,8 +293,6 @@ Learn more about the sources of personal information we collect in [Section 1](#
 Learn more about how we use your personal information in [Section 2](#2-how-do-we-process-your-information).
 
 **Will your information be shared with anyone else?** We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information in [Section 4](#4-when-and-with-whom-do-we-share-your-personal-information).
-
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
 We have not sold or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months.
 
@@ -325,7 +332,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ### Appeals
 
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at bpcopilot\@studio9.app. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
 ### California "Shine The Light" Law
 
@@ -368,9 +375,9 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 14. How Can You Contact Us About This Notice?
 
-If you have questions or comments about this notice, you may email us at [bpcopilot@studio9.app](mailto:bpcopilot@studio9.app).
+If you have questions or comments about this notice, you may email us at bpcopilot\@studio9.app.
 
-Full legal identity and postal contact details are available in our [Legal Notice / Impressum](/impressum).
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
 ## 15. How Can You Review, Update, or Delete the Data We Collect From You?
 
