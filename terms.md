@@ -21,9 +21,7 @@ Store, Apple may enforce these Terms as a third-party beneficiary.
 
 Quikkauf is provided by:
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
 **Owner contact email:** quikkauf\@studio9.app
 

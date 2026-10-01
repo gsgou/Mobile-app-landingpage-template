@@ -3,14 +3,14 @@ description: shows you open shops without waiting lines
 full_description: 'Sick of staying in line and wasting your time?<br>What if you knew which supermarkets around you are currently free of queues?<br><br>Quikkauf cleverly uses Google&#39;s real-time and historical data to show you how full each shop in your surrounding is. Also get an estimate on how long your shopping will take.<br><br>No registration required, we solely use your device&#39;s current location for the purpose of finding nearby shops.'
 android: https://play.google.com/store/apps/details?id=com.studio9.quikkauf
 iOS: https://apps.apple.com/us/app/quikkauf/id1508888586
-#web: 
+web: false 
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
   - 5.png
-#producthunt: https://telegra.ph/Replace-this-link-07-23
+producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
 #    image: androidpolice.png

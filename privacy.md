@@ -36,22 +36,11 @@ privacy rights](#information-for-users-residing-in-brazil).
     -   ### Google Play Store and Apple App Store
         Personal Data: Usage Data
 
-## Contact information
-
-### Owner and Data Controller
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
-
-**Owner contact email:** quikkauf\@studio9.app
-
 # Full policy
 
 ## Owner and Data Controller
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
 **Owner contact email:** quikkauf\@studio9.app
 

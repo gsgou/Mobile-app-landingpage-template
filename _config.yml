@@ -27,7 +27,7 @@ logo: assets/images/large-logo.png
 languages: ["en"]
 ampdir: amp
 
-#github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: false
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
@@ -67,3 +67,6 @@ exclude:
   - optimization-fix-this-file-is-ignored.js
   - icon.png
   - docs
+  - netlify.toml
+  - package-lock.json
+  - app-ads.txt
