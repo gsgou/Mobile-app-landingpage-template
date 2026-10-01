@@ -3,12 +3,13 @@ description: 'Elevate Your Voice, Crush the Noise.<br>Your Ultimate Stutter-Be-G
 full_description: 'Tired of hunting for a quiet spot? Fed up with noisy backgrounds sabotaging your audio recordings? Voice Crush is here to silence the chaos and ensure your voice shines through. Our state-of-the-art denoising AI guarantees your voice will prevail, even in the most challenging acoustic environments.<br><br>Embarking on a language-learning journey? Ever catch yourself stumbling through sentences, drowning in filler words, repeats, and awkward pauses? We get it—recording can be nerve-wracking! Voice Crush comes to the rescue, smoothing out those rough edges into articulate messages before hitting send!<br><br>Our app includes an anti-stuttering feature that identifies and edits stuttering in your audio recordings making them sound more natural. It boosts confidence by improving your voice message flow. Don&#39;t let stuttering hold you back from recording speech. Use Voice Crush to confront and conquer it.'
 android: https://play.google.com/store/apps/details?id=com.studio9.voicecrush
 iOS: https://apps.apple.com/us/app/voicecrush/id1670383196
-#web: 
+web: false 
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
+producthunt: false
 companies:
   - url: https://www.stork.ai/ai-tools/voice-crush
     image: stork.png

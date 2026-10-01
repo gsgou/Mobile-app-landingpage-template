@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and Conditions
+title: Terms of Service
 permalink: /terms/
 ---
 
@@ -21,19 +21,9 @@ Store, Apple may enforce these Terms as a third-party beneficiary.
 
 Voice Crush is owned by:
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
 **Owner contact email:** voicecrush\@studio9.app
-
-Voice Crush is developed and published by:
-
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
-
-**Developer and publisher contact email:** voicecrush\@studio9.app
 
 The following documents are incorporated by reference into these Terms:
 
@@ -496,4 +486,4 @@ Any User qualifying as a natural person who accesses goods or services
 for personal use, or more generally, acts for purposes outside their
 trade, business, craft or profession.
 
-Latest update: October 30, 2023
+Latest update: October 1, 2026

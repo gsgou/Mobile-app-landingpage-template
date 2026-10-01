@@ -3,10 +3,14 @@ app:
   description: Description
   #featured: Featured in
 
+  #featured: Featured in
+
 footer:
-  copyright: Made with ❤️ in Berlin
+  copyright: Made with ❤️ in Germany
   links:
-    - title: Terms and Conditions
+    - title: Impressum
+      url: /impressum
+    - title: Terms of Service
       url: /terms
     - title: Privacy Policy
       url: /privacy

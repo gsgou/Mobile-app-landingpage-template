@@ -38,22 +38,11 @@ privacy rights](#information-for-users-residing-in-brazil).
     -   ### Audo API
     -   ### Cleanvoice API
 
-## Contact information
-
-### Owner and Data Controller
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
-
-**Owner contact email:** voicecrush\@studio9.app
-
 # Full policy
 
 ## Owner and Data Controller
 
-Georgios Sgouridis\
-Hadlichstraße 33\
-13187, Berlin
+Full legal identity and postal contact details are available in our [Imprint/Impressum](/impressum).
 
 **Owner contact email:** voicecrush\@studio9.app
 
@@ -1012,4 +1001,4 @@ Data Protection Regulation).
 This privacy policy relates solely to Voice Crush, if not stated otherwise
 within this document.
 
-Latest update: October 30, 2023
+Latest update: October 1, 2026

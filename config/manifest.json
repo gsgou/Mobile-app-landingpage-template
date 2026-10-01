@@ -1,11 +1,11 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "Screenshot Maker | Screenshot Editor | Screenshot Generator",
+  "short_name": "NeonFrame | Screenshot Maker | Screenshot Editor",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "start_url": "/neonframe.page/",
+  "description": "Make eye-catching screenshots with ease! Share on Twitter, Instagram, LinkedIn, and others.",
   "scope": "/",
-  "theme_color": "#efeeff",
-  "background_color": "#efeeff"
+  "theme_color": "#FF191C1D",
+  "background_color": "#FF191C1D"
 }
